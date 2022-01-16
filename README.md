@@ -1,4 +1,3 @@
-<br>
 <h1 align="center"> Hey there! I'm Atish Chandra 👨‍💻 </h1>
 
 <h3 align="center">  Systems | Operations | Cloud Enthusiast </h3> <br>
@@ -50,6 +49,5 @@
 - 🛢  Database(PostgreSQL/Oracle/MySQL), Installation, Creation, Monitoring, Backup and Restore, Reorganization, Migration, Analyze and Improve DB Performance.
 - 💜 Contributes to Incident handling and Level 3 Support of Applications.
 
-</br>
   
   ❣️ From [Atish Chandra](https://github.com/atishchandra)
