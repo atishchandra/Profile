@@ -38,7 +38,7 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
-#### 🏢 Associate | L3 - Application Integration - Capgemini, India
+#### 🏢 L3 - Integration Engineer - Capgemini, India
 
 - 🏢 Part of the Engineering Build Team for One of the Largest Automobile Company Project.
 - ⚙️ Define and Build applicative technical architecture from standard bricks and put it into production.
