@@ -26,7 +26,6 @@
 - 🧑‍💻 &nbsp; **Linux** : RHEL | SLES | openSUSE | CentOS | Ubuntu
 - 🧑‍💻 &nbsp; **Unix**  : Solaris | AIX
 - 🛢 &nbsp; **Database** : Oracle | MySQL | PostgreSQL
-- 🖥 &nbsp; **Windows** : Windows Server 2012 | 2012 r2 | 2019
 - 💻 &nbsp; **Language** : Python |
 - 📜 &nbsp; **Scripting** : Bash | Shell
 - 🌐 &nbsp; **Web Technology** : Apache | Tomcat
