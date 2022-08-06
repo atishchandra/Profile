@@ -27,7 +27,7 @@
 - 🧑‍💻 &nbsp; **Unix**  : Solaris | AIX
 - 🛢 &nbsp; **Database** : Oracle | MySQL | PostgreSQL
 - 🖥 &nbsp; **Windows** : Windows Server 2012 | 2012 r2 | 2019
-- 💻 &nbsp; **Language** : C | Python
+- 💻 &nbsp; **Language** : Python |
 - 📜 &nbsp; **Scripting** : Bash | Shell
 - 🌐 &nbsp; **Web Technology** : Apache | Tomcat
 - ☁️ &nbsp; **Cloud** : Azure | AWS
@@ -48,6 +48,9 @@
 - 💬 Automates all possible processes to ensure reproducibility and high quality of application delivery and Operating Process.
 - 🛢  Database(PostgreSQL/Oracle/MySQL), Installation, Creation, Monitoring, Backup and Restore, Reorganization, Migration, Analyze and Improve DB Performance.
 - 💜 Contributes to Incident handling and Level 3 Support of Applications.
+- 🏢 Building Infrastructure ( Linux Servers, Web/Application Servers, Databases etc ) for Applications from Scratch.
+- 🔧 Technical Migration of Applications with Old Unix Servers ( AIX/Solaris) to SLES12/15, Older JDK to OpenJDK11, Postgresql Upgrade, MySQL Upgrade, Oracle 11g, 12c to 19c Upgrade, MQ Upgrade, CFT Upgrade, Tomcat Upgrade, WAS Upgrade.
+- ⚙️ HTTP to HTTPS Migration of Applications.
 
 </br>
 
