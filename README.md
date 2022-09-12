@@ -26,10 +26,10 @@
 - 🧑‍💻 &nbsp; **Linux** : RHEL | SLES | openSUSE | CentOS | Ubuntu
 - 🧑‍💻 &nbsp; **Unix**  : Solaris | AIX
 - 🛢 &nbsp; **Database** : PostgreSQL | Oracle | MySQL
-- 💻 &nbsp; **Language** : Python | SQL
+- 💻 &nbsp; **Language** : SQL | Python
 - 📜 &nbsp; **Scripting** : Bash | Shell
 - 🌐 &nbsp; **Web Technology** : Tomcat | WAS | Apache
-- ☁️ &nbsp; **Cloud** : AWS
+- ☁️ &nbsp; **Cloud** : AWS |
 - ⚙️ &nbsp; **Tools** : Git | Github | SVN | Eclipse 
 - 🔧 &nbsp; **Others** : Troubleshooting | Debugging | IBM MQ
 
