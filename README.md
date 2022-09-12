@@ -25,13 +25,13 @@
 
 - 🧑‍💻 &nbsp; **Linux** : RHEL | SLES | openSUSE | CentOS | Ubuntu
 - 🧑‍💻 &nbsp; **Unix**  : Solaris | AIX
-- 🛢 &nbsp; **Database** : Oracle | MySQL | PostgreSQL
-- 💻 &nbsp; **Language** : Python |
+- 🛢 &nbsp; **Database** : PostgreSQL | Oracle | MySQL
+- 💻 &nbsp; **Language** : Python | SQL
 - 📜 &nbsp; **Scripting** : Bash | Shell
-- 🌐 &nbsp; **Web Technology** : Apache | Tomcat
-- ☁️ &nbsp; **Cloud** : Azure | AWS
-- ⚙️ &nbsp; **Tools** : Git | Github | SVN | Eclipse
-- 🔧 &nbsp; **Others** : Debugging | IBM MQ
+- 🌐 &nbsp; **Web Technology** : Tomcat | WAS | Apache
+- ☁️ &nbsp; **Cloud** : AWS
+- ⚙️ &nbsp; **Tools** : Git | Github | SVN | Eclipse 
+- 🔧 &nbsp; **Others** : Troubleshooting | Debugging | IBM MQ
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
