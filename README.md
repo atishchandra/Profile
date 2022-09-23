@@ -28,10 +28,11 @@
 - 🛢 &nbsp; **Database** : PostgreSQL | Oracle | MySQL
 - 💻 &nbsp; **Language** : SQL | Python
 - 📜 &nbsp; **Scripting** : Bash | Shell
+- 📜 &nbsp; **Data Serialization Language** : XML | YAML | JSON
 - 🌐 &nbsp; **Web Technology** : Tomcat | WAS | Apache
 - ☁️ &nbsp; **Cloud** : AWS |
-- ⚙️ &nbsp; **Tools** : Git | Github | SVN | Eclipse 
-- 🔧 &nbsp; **Others** : Troubleshooting | Debugging | IBM MQ
+- ⚙️ &nbsp; **Tools** : Git | Github | SVN | Eclipse | JIRA
+- 🔧 &nbsp; **Others** : API | Troubleshooting | Debugging | IBM MQ
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
