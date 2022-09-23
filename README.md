@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! I'm Atish Chandra 👨‍💻 </h1>
 
-<h3 align="center">  Systems | Operations | Cloud Enthusiast </h3> <br>
+<h3 align="center">  DevOps & Cloud Enthusiast </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/atishchandra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue"></a>
