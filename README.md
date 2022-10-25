@@ -41,8 +41,6 @@
 
 #### 🏢 L3 - Integration Engineer - Capgemini, India
 
-<br>
-
 - 🏢 Part of the Engineering Build Team for One of the Largest Automobile Company Project.
 - ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Suse Linux Enterprise Systems.
 - 🌍 Combining All components to build a full-fledged application using microservices approach.
@@ -61,6 +59,6 @@
 - ⏱️ Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
 - 💻Linux Server health check and Free File system space.
 
-</br>
+<br> </br>
 
 ❣️ From [Atish Chandra](https://github.com/atishchandra)
