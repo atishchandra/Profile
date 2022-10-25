@@ -41,6 +41,8 @@
 
 #### 🏢 L3 - Integration Engineer - Capgemini, India
 
+<br>
+
 - 🏢 Part of the Engineering Build Team for One of the Largest Automobile Company Project.
 - ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Suse Linux Enterprise Systems.
 - 🌍 Combining All components to build a full-fledged application using microservices approach.
@@ -51,13 +53,13 @@
 - 💜 Automation of Infrastructure tasks using Shell scripting.
 - 🏢 Managing Frontend Servers, Log level Analysis, Trace logs and troubleshooting hosted on IBM WebSphere and Apache Tomcat.
 - 🔧 Working on SSL certificate installation & configuration.
-- ⚙️ Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
-- ⚙️ Working on Oracle Db to perform tasks like DB script execution, DB backup - DB restoration via data pump utility, creating tablespace, Generating AWR report on reported issue etc.
-- ⚙️ Working on PostgreSQL and MySQL for delivering SQL's, DB Backup and Restoration, Access Rights etc.
-- ⚙️ Performing deployments of Applications with in-house Automation Deployment tool called Indusgen & parallauncher.
-- ⚙️ Using in-house monitoring tools like Introscope, and Pacific for (URL down, Server down, CPU and memory health check).
-- ⚙️ Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
-- Linux Server health check and Free File system space.
+- 👨‍💻 Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
+- 📋 Working on Oracle Db to perform tasks like DB script execution, DB backup - DB restoration via data pump utility, creating tablespace, Generating AWR report on reported issue etc.
+- 📋 Working on PostgreSQL and MySQL for delivering SQL's, DB Backup and Restoration, Access Rights etc.
+- 🕹️ Performing deployments of Applications with in-house Automation Deployment tool called Indusgen & parallauncher.
+- 💡Using in-house monitoring tools like Introscope, and Pacific for (URL down, Server down, CPU and memory health check).
+- ⏱️ Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
+- 💻Linux Server health check and Free File system space.
 
 </br>
 
