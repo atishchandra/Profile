@@ -27,12 +27,13 @@
 - 🧑‍💻 &nbsp; **Unix**  : Solaris | AIX
 - 🛢 &nbsp; **Database** : PostgreSQL | Oracle | MySQL
 - 💻 &nbsp; **Language** : SQL | Python
-- 📜 &nbsp; **Scripting** : Bash | Shell
+- 📜 &nbsp; **Scripting** : Shell Scripting (Bash/KSH) |
+- 🕸️ &nbsp; **Version Control** : Subversion | Git | GitHub
 - 📜 &nbsp; **Data Serialization Language** : XML | YAML | JSON
 - 🌐 &nbsp; **Web Technology** : Tomcat | WAS | Apache
 - ☁️ &nbsp; **Cloud** : AWS |
-- ⚙️ &nbsp; **Tools** : Git | Github | SVN | Eclipse | JIRA
-- 🔧 &nbsp; **Others** : API | Troubleshooting | Debugging | IBM MQ
+- ⚙️ &nbsp; **Tools** : Eclipse | JIRA | Postman | Putty | Winscp | SQL developer | MySQL Workbench | PGAdmin | ITIL
+- 🔧 &nbsp; **Others** : APIs | Troubleshooting | Debugging | IBM MQ
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
