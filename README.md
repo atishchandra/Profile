@@ -42,16 +42,22 @@
 #### 🏢 L3 - Integration Engineer - Capgemini, India
 
 - 🏢 Part of the Engineering Build Team for One of the Largest Automobile Company Project.
-- ⚙️ Define and Build applicative technical architecture from standard bricks and put it into production.
-- 🌍 Technical integration of the software solution in preproduction and production environments.
-- 🔧 Integration of new applications and updates.
-- 🔗 Manage exchange interface of the application with partner applications
-- 💬 Automates all possible processes to ensure reproducibility and high quality of application delivery and Operating Process.
-- 🛢  Database(PostgreSQL/Oracle/MySQL), Installation, Creation, Monitoring, Backup and Restore, Reorganization, Migration, Analyze and Improve DB Performance.
-- 💜 Contributes to Incident handling and Level 3 Support of Applications.
-- 🏢 Building Infrastructure ( Linux Servers, Web/Application Servers, Databases etc ) for Applications from Scratch.
-- 🔧 Technical Migration of Applications with Old Unix Servers ( AIX/Solaris) to SLES12/15, Older JDK to OpenJDK11, Postgresql Upgrade, MySQL Upgrade, Oracle 11g, 12c to 19c Upgrade, MQ Upgrade, CFT Upgrade, Tomcat Upgrade, WAS Upgrade.
-- ⚙️ HTTP to HTTPS Migration of Applications.
+- ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Suse Linux Enterprise Systems.
+- 🌍 Combining All components to build a full-fledged application using microservices approach.
+- 🔧 Technical Migration of Applications with Old Unix Servers to new Linux Servers, Java Upgrade, Postgresql Upgrade, MySQL Upgrade, Oracle DB Upgrade, MQ Upgrade, CFT Upgrade, Tomcat Upgrade, WAS Upgrade etc.
+- 🔗 Managing Application’s Configuration / properties & dictionary files in eclipse SVN repository.
+- 💬 Creation and Administration of Database Servers for PostgreSQL, Oracle DB and MySQL on Linux Servers.
+- 🛢  Working with Development and Project teams to ensure continuous Integration and Delivery of build and test systems.
+- 💜 Automation of Infrastructure tasks using Shell scripting.
+- 🏢 Managing Frontend Servers, Log level Analysis, Trace logs and troubleshooting hosted on IBM WebSphere and Apache Tomcat.
+- 🔧 Working on SSL certificate installation & configuration.
+- ⚙️ Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
+- ⚙️ Working on Oracle Db to perform tasks like DB script execution, DB backup - DB restoration via data pump utility, creating tablespace, Generating AWR report on reported issue etc.
+- ⚙️ Working on PostgreSQL and MySQL for delivering SQL's, DB Backup and Restoration, Access Rights etc.
+- ⚙️ Performing deployments of Applications with in-house Automation Deployment tool called Indusgen & parallauncher.
+- ⚙️ Using in-house monitoring tools like Introscope, and Pacific for (URL down, Server down, CPU and memory health check).
+- ⚙️ Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
+- Linux Server health check and Free File system space.
 
 </br>
 
