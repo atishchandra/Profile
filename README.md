@@ -51,7 +51,6 @@
 - 💜 Automation of Infrastructure tasks using Shell scripting.
 - 🏢 Managing Frontend Servers, Log level Analysis, Trace logs and troubleshooting hosted on IBM WebSphere and Apache Tomcat.
 - 🔧 Working on SSL certificate installation & configuration.
-- 👨‍💻 Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
 - 📋 Working on Oracle Db to perform tasks like DB script execution, DB backup - DB restoration via data pump utility, creating tablespace, Generating AWR report on reported issue etc.
 - 📋 Working on PostgreSQL and MySQL for delivering SQL's, DB Backup and Restoration, Access Rights etc.
 - 🕹️ Performing deployments of Applications with in-house Automation Deployment tool called Indusgen & parallauncher.
