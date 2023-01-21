@@ -30,8 +30,11 @@
 - 📜 &nbsp; **Scripting** : Shell Scripting (Bash/KSH) |
 - 🕸️ &nbsp; **Version Control** : Subversion | Git | GitHub
 - 📜 &nbsp; **Data Serialization Language** : XML | YAML | JSON
-- 🌐 &nbsp; **Web Technology** : Tomcat | WAS | Apache
+- 🌐 &nbsp; **Web Servers** : Tomcat | WAS | Apache
 - ☁️ &nbsp; **Cloud** : AWS |
+- 📶 &nbsp; **Networking** : AWS |
+- 🌐 &nbsp; **Web Services & Security** : AWS |
+- 🗄️ &nbsp; **Infra** : AWS |
 - ⚙️ &nbsp; **Tools** : Eclipse | JIRA | Postman | Putty | Winscp | SQL developer | MySQL Workbench | PGAdmin | ITIL
 - 🔧 &nbsp; **Others** : APIs | Troubleshooting | Debugging | IBM MQ
 
@@ -39,7 +42,7 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
-#### 🏢 L3 - Application Build & Integration Engineer - Capgemini, India
+#### 🏢 Application Build & Integration Engineer - Capgemini, India
 
 - 🏢 Part of the Engineering and Customer Experience Team for a French Automobile Client.
 - ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Suse Linux Enterprise Systems.
