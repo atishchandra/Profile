@@ -42,7 +42,7 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
-#### 🏢 Application Build & Integration Engineer - Capgemini, India
+#### 🏢 Application Build & Integration Engineer - Capgemini, India (Jan 2021 - Present)
 
 - 🏢 Part of the Engineering and Customer Experience Team for a French Automobile Client.
 - ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Suse Linux Enterprise Systems.
