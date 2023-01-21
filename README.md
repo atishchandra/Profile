@@ -31,10 +31,10 @@
 - 🕸️ &nbsp; **Version Control** : Subversion | Git | GitHub
 - 📜 &nbsp; **Data Serialization Language** : XML | YAML | JSON
 - 🌐 &nbsp; **Web Servers** : Tomcat | WAS | Apache
+- 🌐 &nbsp; **Web Services & Security** : HTTP | REST API | HTTPS | SSL/TLS 
 - ☁️ &nbsp; **Cloud** : AWS |
-- 📶 &nbsp; **Networking** : AWS |
-- 🌐 &nbsp; **Web Services & Security** : AWS |
-- 🗄️ &nbsp; **Infra** : AWS |
+- 📶 &nbsp; **Networking** : Basics |
+- 🗄️ &nbsp; **Infra** : VPN | Proxy Server | TCP | UDP | DNS | LDAP | Load Balancing | Firewall | SSO
 - ⚙️ &nbsp; **Tools** : Eclipse | JIRA | Postman | Putty | Winscp | SQL developer | MySQL Workbench | PGAdmin | ITIL
 - 🔧 &nbsp; **Others** : APIs | Troubleshooting | Debugging | IBM MQ
 
