@@ -39,9 +39,9 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
-#### 🏢 L3 - Integration Engineer - Capgemini, India
+#### 🏢 L3 - Application Build & Integration Engineer - Capgemini, India
 
-- 🏢 Part of the Engineering Build Team for One of the Largest Automobile Company Project.
+- 🏢 Part of the Engineering and Customer Experience Team for a French Automobile Client.
 - ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Suse Linux Enterprise Systems.
 - 🌍 Combining All components to build a full-fledged application using microservices approach.
 - 🔧 Technical Migration of Applications with Old Unix Servers to new Linux Servers, Java Upgrade, Postgresql Upgrade, MySQL Upgrade, Oracle DB Upgrade, MQ Upgrade, CFT Upgrade, Tomcat Upgrade, WAS Upgrade etc.
@@ -54,8 +54,9 @@
 - 📋 Working on Oracle Db to perform tasks like DB script execution, DB backup - DB restoration via data pump utility, creating tablespace, Generating AWR report on reported issue etc.
 - 📋 Working on PostgreSQL and MySQL for delivering SQL's, DB Backup and Restoration, Access Rights etc.
 - 🕹️ Performing deployments of Applications with in-house Automation Deployment tool called Indusgen & parallauncher.
-- 💡Using in-house monitoring tools like Introscope, and Pacific for (URL down, Server down, CPU and memory health check).
+- 💡 Using in-house monitoring tools like Introscope, and Pacific for (URL down, Server down, CPU and memory health check).
 - ⏱️ Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
-- 💻Linux Server health check and Free File system space.
+- 💻 Managing exchange interface of the application with partner applications.
+- 📋 Contributes to Incident handling, Documentation and Level 3 Support of Applications.
 
 ❣️ From [Atish Chandra](https://github.com/atishchandra)
