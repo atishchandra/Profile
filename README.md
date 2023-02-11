@@ -30,8 +30,9 @@
 - 📜 &nbsp; **Scripting** : Shell Scripting (Bash/KSH) |
 - 🕸️ &nbsp; **Version Control** : Subversion | Git | GitHub
 - 📜 &nbsp; **Data Serialization Language** : XML | YAML | JSON
-- 🌐 &nbsp; **Web Servers** : Tomcat | WAS | Apache
-- 🌐 &nbsp; **Web Services & Security** : HTTP | REST API | HTTPS | SSL/TLS 
+- 🌐 &nbsp; **Web Servers** : Tomcat | WebSphere | Apache
+- 🌐 &nbsp; **Web Services** : REST | SOAP | HTTP  
+- 🌐 &nbsp; **Web Security** : HTTPS | TLS/SSL | OAuth | OIDC
 - ☁️ &nbsp; **Cloud** : AWS |
 - 📶 &nbsp; **Networking** : Basics |
 - 🗄️ &nbsp; **Infra** : VPN | Proxy Server | TCP | UDP | DNS | LDAP | Load Balancing | Firewall | SSO
@@ -45,6 +46,7 @@
 #### 🏢 Application Build & Integration Engineer - Capgemini, India (Jan 2021 - Present)
 
 - 🏢 Part of the Engineering and Customer Experience Team for a French Automobile Client.
+- 💻 Collaborated with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
 - ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Suse Linux Enterprise Systems.
 - 🌍 Combining All components to build a full-fledged application using microservices approach.
 - 🔧 Technical Migration of Applications with Old Unix Servers to new Linux Servers, Java Upgrade, Postgresql Upgrade, MySQL Upgrade, Oracle DB Upgrade, MQ Upgrade, CFT Upgrade, Tomcat Upgrade, WAS Upgrade etc.
