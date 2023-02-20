@@ -16,7 +16,7 @@
 - 🤔 &nbsp; Currently, Part of the Engineering & Customer Experience Team at Capgemini, India
 - 🎓 &nbsp; Pursuing Master's in Computer Application from Chandigarh University, Distance Education.
 - 🧑‍💻 &nbsp; Diving deep into Cloud & DevOps Engineering.
-- 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer
+- 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer.
 - ✍️ &nbsp; I love Music, Movies, Writing & Travelling.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
