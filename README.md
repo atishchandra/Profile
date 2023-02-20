@@ -13,9 +13,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Currently, Part of the Engineering Build Team at Capgemini, India
-- 🎓 &nbsp; Studying Master's in Computer Application from Chandigarh University.
-- 🧑‍💻 &nbsp; Diving Deep into Linux, Cloud & Database Technologies.
+- 🤔 &nbsp; Currently, Part of the Engineering & Customer Experience Team at Capgemini, India
+- 🎓 &nbsp; Pursuing Master's in Computer Application from Chandigarh University, Distance Education.
+- 🧑‍💻 &nbsp; Diving deep into Cloud & DevOps Engineering.
 - 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer
 - ✍️ &nbsp; I love Music, Movies, Writing & Travelling.
 
