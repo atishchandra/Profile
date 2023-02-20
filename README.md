@@ -46,12 +46,13 @@
 #### 🏢 Application Build & Integration Engineer - Capgemini, India (Jan 2021 - Present)
 
 - 🏢 Part of the Engineering and Customer Experience Team for a French Automobile Client.
-- 💻 Collaborated with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
-- ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Suse Linux Enterprise Systems.
+- 👨‍💻 Extensive experience working in a customer-facing environment, consistently delivering high-quality service and fostering positive relationships with clients and customers.
+- 💻 Collaborating with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
+- ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Linux & Unix Systems.
 - 🌍 Combining All components to build a full-fledged application using microservices approach.
 - 🔧 Technical Migration of Applications with Old Unix Servers to new Linux Servers, Java Upgrade, Postgresql Upgrade, MySQL Upgrade, Oracle DB Upgrade, MQ Upgrade, CFT Upgrade, Tomcat Upgrade, WAS Upgrade etc.
 - 🔗 Managing Application’s Configuration / properties & dictionary files in eclipse SVN repository.
-- 💬 Creation and Administration of Database Servers for PostgreSQL, Oracle DB and MySQL on Linux Servers.
+- 💬 Creation and Administration of Databases like PostgreSQL, Oracle DB and MySQL on Linux Servers.
 - 🛢  Working with Development and Project teams to ensure continuous Integration and Delivery of build and test systems.
 - 💜 Automation of Infrastructure tasks using Shell scripting.
 - 🏢 Managing Frontend Servers, Log level Analysis, Trace logs and troubleshooting hosted on IBM WebSphere and Apache Tomcat.
