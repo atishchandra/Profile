@@ -45,24 +45,26 @@
 
 #### 🏢 Application Build & Integration Engineer - Capgemini, India (Jan 2021 - Present)
 
-- 🏢 Part of the Engineering and Customer Experience Team for a French Automobile Client.
+- 🏢 Member of the Engineering and Customer Experience Team for a French Automobile Client.
 - 👨‍💻 Extensive experience working in a customer-facing environment, consistently delivering high-quality service and fostering positive relationships with clients and customers.
 - 💻 Collaborating with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
-- ⚙️ Building Infrastructure for Frontend and Backend (Database/Batch) Servers, hosted on Linux & Unix Systems.
-- 🌍 Combining All components to build a full-fledged application using microservices approach.
-- 🔧 Technical Migration of Applications with Old Unix Servers to new Linux Servers, Java Upgrade, Postgresql Upgrade, MySQL Upgrade, Oracle DB Upgrade, MQ Upgrade, CFT Upgrade, Tomcat Upgrade, WAS Upgrade etc.
-- 🔗 Managing Application’s Configuration / properties & dictionary files in eclipse SVN repository.
-- 💬 Creation and Administration of Databases like PostgreSQL, Oracle DB and MySQL on Linux Servers.
-- 🛢  Working with Development and Project teams to ensure continuous Integration and Delivery of build and test systems.
-- 💜 Automation of Infrastructure tasks using Shell scripting.
-- 🏢 Managing Frontend Servers, Log level Analysis, Trace logs and troubleshooting hosted on IBM WebSphere and Apache Tomcat.
-- 🔧 Working on SSL certificate installation & configuration.
-- 📋 Working on Oracle Db to perform tasks like DB script execution, DB backup - DB restoration via data pump utility, creating tablespace, Generating AWR report on reported issue etc.
-- 📋 Working on PostgreSQL and MySQL for delivering SQL's, DB Backup and Restoration, Access Rights etc.
-- 🕹️ Performing deployments of Applications with in-house Automation Deployment tool called Indusgen & parallauncher.
-- 💡 Using in-house monitoring tools like Introscope, and Pacific for (URL down, Server down, CPU and memory health check).
-- ⏱️ Automation Batch/Job Configuration, Scheduling, Execution & monitoring in Dollar Universe / Univiewer ($U) & Crontab.
-- 💻 Managing exchange interface of the application with partner applications.
-- 📋 Contributes to Incident handling, Documentation and Level 3 Support of Applications.
+- ⚙️ Built infrastructure for frontend and backend servers on Unix & Linux Systems and utilized a microservices approach to create full-fledged applications.
+- 🌍 Performed technical migration of applications from legacy Unix servers to modern Linux servers, including upgrades to Java, Postgresql, MySQL, Oracle DB, MQ, CFT, Tomcat, and WebSphere.
+- 🔧 Managed application configuration, properties, and dictionary files using Eclipse IDE and Apache Subversion(SVN).
+- 🔗 Implemented and maintained database servers on Linux platforms for PostgreSQL, Oracle DB, and MySQL to ensure efficient data management and availability.
+- 💬 Performed tasks on Oracle DB, such as DB script execution, data backup and restoration, tablespace creation, and AWR report generation for issue reporting.
+- 🛢  Deliver SQL, backup and restoration, and access rights for PostgreSQL and MySQL databases.
+- 💜 Automated infrastructure tasks using Shell scripting.
+- 🏢 Managed frontend servers on IBM WebSphere and Apache Tomcat, including log analysis, trace logs, and troubleshooting, as well as SSL certificate installation and configuration.
+- 🔧 Configured batch and job scheduling and monitored using Dollar Universe/Univiewer ($U) and Crontab.
+- 📋 Performed deployments of Applications with in-house Automation Deployment tool called Indusgen & paralauncher.
+- 📋 Performed application deployments using in-house deployment tools like Indusgen and Parallauncher, and utilized monitoring tools like Introscope and Pacific for server health checks.
+- 🕹️ Built applicative technical architecture from standard bricks and put it into production.
+- 💡 Integrated new applications and updates, and managed the exchange interface of the application with partner applications.
+- ⏱️ Automated all possible processes to ensure reproducibility and high quality of application delivery and Operating Processes.
+- 💻 Built infrastructure from scratch for applications, including Web servers, Application Servers, Batch and Database Servers.
+- 🔧 Performed technical migrations of applications from legacy systems and outdated software to modern ones.
+- 🌍 Performed the migration of applications from HTTP to HTTPS.
+- 📋 Ensured efficient application support and maintenance through incident, change, and problem management, knowledge transfer to junior resources, and creating documentation.
 
 ❣️ From [Atish Chandra](https://github.com/atishchandra)
