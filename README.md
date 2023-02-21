@@ -57,7 +57,6 @@
 - 💜 Automated infrastructure tasks using Shell scripting.
 - 🏢 Managed frontend servers on IBM WebSphere and Apache Tomcat, including log analysis, trace logs, and troubleshooting, as well as SSL certificate installation and configuration.
 - 🔧 Configured batch and job scheduling and monitored using Dollar Universe/Univiewer ($U) and Crontab.
-- 📋 Performed deployments of Applications with in-house Automation Deployment tool called Indusgen & paralauncher.
 - 📋 Performed application deployments using in-house deployment tools like Indusgen and Parallauncher, and utilized monitoring tools like Introscope and Pacific for server health checks.
 - 🕹️ Built applicative technical architecture from standard bricks and put it into production.
 - 💡 Integrated new applications and updates, and managed the exchange interface of the application with partner applications.
@@ -65,6 +64,6 @@
 - 💻 Built infrastructure from scratch for applications, including Web servers, Application Servers, Batch and Database Servers.
 - 🔧 Performed technical migrations of applications from legacy systems and outdated software to modern ones.
 - 🌍 Performed the migration of applications from HTTP to HTTPS.
-- 📋 Ensured efficient application support and maintenance through incident, change, and problem management, knowledge transfer to junior resources, and creating documentation.
+- 📋 Ensured efficient application support and maintenance through incident, change, and problem management, creating documentation and last point of escalation within the Technical support department and mentoring junior team members in various technologies.
 
 ❣️ From [Atish Chandra](https://github.com/atishchandra)
