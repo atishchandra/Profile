@@ -33,7 +33,7 @@
 - 🌐 &nbsp; **Web Servers** : Tomcat | WebSphere | Apache
 - 🌐 &nbsp; **Web Services** : REST | SOAP | HTTP  
 - 🌐 &nbsp; **Web Security** : HTTPS | TLS/SSL | OAuth | OIDC
-- ☁️ &nbsp; **Cloud** : AWS |
+- ☁️ &nbsp; **Cloud Computing** : AWS |
 - 📶 &nbsp; **Networking** : Basics |
 - 🗄️ &nbsp; **Infra** : VPN | Proxy Server | TCP | UDP | DNS | LDAP | Load Balancing | Firewall | SSO
 - ⚙️ &nbsp; **Tools** : Eclipse | JIRA | Postman | Putty | Winscp | SQL developer | MySQL Workbench | PGAdmin | ITIL
