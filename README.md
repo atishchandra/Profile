@@ -47,7 +47,7 @@
 
 - 🏢 Member of the Engineering and Customer Experience Team for a French Automobile Client.
 - 👨‍💻 Extensive experience working in a customer-facing environment, consistently delivering high-quality service and fostering positive relationships with clients and customers.
-- 💻 Collaborating with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
+- 💻 Collaborated with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
 - ⚙️ Built infrastructure for frontend and backend servers on Unix & Linux Systems and utilized a microservices approach to create full-fledged applications.
 - 🌍 Performed technical migration of applications from legacy Unix servers to modern Linux servers, including upgrades to Java, Postgresql, MySQL, Oracle DB, MQ, CFT, Tomcat, and WebSphere.
 - 🔧 Managed application configuration, properties, and dictionary files using Eclipse IDE and Apache Subversion(SVN).
