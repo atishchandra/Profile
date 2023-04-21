@@ -34,7 +34,7 @@
 - 🌐 &nbsp; **Web Services** : REST | SOAP | HTTP  
 - 🌐 &nbsp; **Web Security** : HTTPS | TLS/SSL | OAuth | OIDC
 - ☁️ &nbsp; **Cloud Computing** : AWS |
-- 📶 &nbsp; **Networking** : Basics |
+- 📶 &nbsp; **Networking** : Fundamentals |
 - 🗄️ &nbsp; **Infra** : VPN | Proxy Server | TCP | UDP | DNS | LDAP | Load Balancing | Firewall | SSO
 - ⚙️ &nbsp; **Tools** : Eclipse | JIRA | Postman | Putty | Winscp | SQL developer | MySQL Workbench | PGAdmin | ITIL
 - 🔧 &nbsp; **Others** : APIs | Troubleshooting | Debugging | IBM MQ
@@ -43,7 +43,7 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
-#### 🏢 Application Build & Integration Engineer - Capgemini, India (Jan 2021 - Present)
+#### 🏢 Application Build & Integration Engineer (L3) - Capgemini, India (Jan 2021 - April 2023)
 
 - 🏢 Member of the Engineering and Customer Experience Team for a French Automobile Client.
 - 👨‍💻 Extensive experience working in a customer-facing environment, consistently delivering high-quality service and fostering positive relationships with clients and customers.
