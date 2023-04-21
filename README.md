@@ -13,7 +13,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Formerly on the Engineering & Customer Experience Team at Capgemini India.
+- 💻 &nbsp; Formerly a member of the Engineering & Customer Experience Team at Capgemini India.
 - 🎓 &nbsp; Pursuing Master's in Computer Application from Chandigarh University, Distance Education.
 - 🧑‍💻 &nbsp; Diving deep into Cloud & DevOps Engineering.
 - 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer.
