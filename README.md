@@ -13,7 +13,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Formerly a member of the Engineering & Customer Experience Team at Capgemini India.
+- 💻 &nbsp; Currently part of the Engineering & Customer Success Team at ServiceNow.
 - 🎓 &nbsp; Pursuing Master's in Computer Application from Chandigarh University, Distance Education.
 - 🧑‍💻 &nbsp; Diving deep into Cloud & DevOps Engineering.
 - 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer.
@@ -43,9 +43,14 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
-#### 🏢 Application Build & Integration Engineer (L3) - Capgemini, India (Jan 2021 - April 2023)
+#### 🏢 Engineer, Integrations - ServiceNow, Hyderabad (April 2023 - Present)
 
-- 🏢 Member of the Engineering and Customer Experience Team for a French Automobile Client.
+- 🏢 Member of the CS, Integrations Team.
+- 👨‍💻 Linux, Databases, Authentication, Web Services, Email, Network, Encryption, Middleware, Splunk etc.
+
+#### 🏢 Engineer, Build & Integrations - Capgemini, Bangalore (Jan 2021 - April 2023)
+
+- 🏢 Member of the Engineering & Customer Success Team at ServiceNow.
 - 👨‍💻 Extensive experience working in a customer-facing environment, consistently delivering high-quality service and fostering positive relationships with clients and customers.
 - 💻 Collaborated with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
 - ⚙️ Built infrastructure for frontend and backend servers on Unix & Linux Systems and utilized a microservices approach to create full-fledged applications.
