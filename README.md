@@ -50,7 +50,7 @@
 
 #### 🏢 Engineer, Build & Integrations - Capgemini, Bangalore (Jan 2021 - April 2023)
 
-- 🏢 Member of the Engineering & Customer Success Team at ServiceNow.
+- 🏢 Member of the Engineering and Customer Experience Team for a French Automobile Client.
 - 👨‍💻 Extensive experience working in a customer-facing environment, consistently delivering high-quality service and fostering positive relationships with clients and customers.
 - 💻 Collaborated with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
 - ⚙️ Built infrastructure for frontend and backend servers on Unix & Linux Systems and utilized a microservices approach to create full-fledged applications.
