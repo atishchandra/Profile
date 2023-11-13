@@ -34,10 +34,10 @@
 - ✉️ &nbsp; **Email Infra** : SMTP | POP3 | IMAP
 - 🌐 &nbsp; **Web Services** : REST API | SOAP | JSONv2  
 - 🔒 &nbsp; **Authentication** : Basic Auth | MFA | API Auth | LDAP | Single Sign-On | SAML | OAuth | OIDC | Mutual Auth
-- 🔒 &nbsp; **ServiceNow** : Authentication | Table API | Import Set Web Services | Scripted Web Services | Inbound and Outbound API Integration | Rest API Explorer | Inbound and Outbound Emails | Email Notifications | Inbound Email Actions | Email Client | Outlook Actionable Messages | SMS | Push Notifications | Import Sets | LDAP Import Sets | Easy Import | Scheduled Imports | Export Sets | Scheduled Exports | Service Graph Connectors | Mid server | Instance Data Replication (IDR)
+- 🔒 &nbsp; **ServiceNow** : Authentication | Web Services | Import and Export Sets | Service Graph Connectors | Mid Server | Instance Data Replication
 - ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
 - 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
-- 🗄️ &nbsp; **Infra** : TCP/IP Stack
+- 🗄️ &nbsp; **Infra** : TCP-IP Stack
 - ⚙️ &nbsp; **Tools** : Splunk | Postman | SOAP UI | Eclipse | JIRA | Postman | SQL developer | MySQL Workbench | PGAdmin | ITIL
 - 🔧 &nbsp; **Others** : Troubleshooting | Debugging | JDBC | ODBC
 
