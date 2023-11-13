@@ -37,7 +37,7 @@
 - 💻 &nbsp; **ServiceNow** : Authentication | Web Services | Email Infra | Import Sets | Export Sets | SGC | Mid Server | IDR
 - ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
 - 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
-- 🗄️ &nbsp; **Infra** : TCP IP Stack
+- 🗄️ &nbsp; **Infra** : TCP/IP Stack |
 - ⚙️ &nbsp; **Tools** : Splunk | Postman | SOAP UI | Eclipse | JIRA | Postman | SQL developer | MySQL Workbench | PGAdmin | ITIL
 - 🔧 &nbsp; **Others** : Troubleshooting | Debugging | JDBC | ODBC
 
