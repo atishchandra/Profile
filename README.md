@@ -25,19 +25,21 @@
 
 - 🧑‍💻 &nbsp; **Linux** : RHEL | SLES | openSUSE | CentOS | Ubuntu
 - 🧑‍💻 &nbsp; **Unix**  : Solaris | AIX
-- 🛢 &nbsp; **Database** : PostgreSQL | Oracle | MySQL
+- 🛢 &nbsp; **Database** : MySQL | PostgreSQL | Oracle
 - 💻 &nbsp; **Language** : SQL | Python
 - 📜 &nbsp; **Scripting** : Shell Scripting (Bash/KSH) |
 - 🕸️ &nbsp; **Version Control** : Subversion | Git | GitHub
 - 📜 &nbsp; **Data Serialization Language** : XML | YAML | JSON
 - 🌐 &nbsp; **Web Servers** : Tomcat | WebSphere | Apache
-- 🌐 &nbsp; **Web Services** : REST | SOAP | HTTP  
-- 🌐 &nbsp; **Web Security** : HTTPS | TLS/SSL | OAuth | OIDC
-- ☁️ &nbsp; **Cloud Computing** : AWS |
-- 📶 &nbsp; **Networking** : Fundamentals |
-- 🗄️ &nbsp; **Infra** : VPN | Proxy Server | TCP | UDP | DNS | LDAP | Load Balancing | Firewall | SSO
-- ⚙️ &nbsp; **Tools** : Eclipse | JIRA | Postman | Putty | Winscp | SQL developer | MySQL Workbench | PGAdmin | ITIL
-- 🔧 &nbsp; **Others** : APIs | Troubleshooting | Debugging | IBM MQ
+- ✉️ &nbsp; **Email Infra** : SMTP | POP3 | IMAP
+- 🌐 &nbsp; **Web Services** : REST API | SOAP | JSONv2  
+- 🔒 &nbsp; **Authentication** : Basic Auth | MFA | API Auth | LDAP | Single Sign-On (SSO) | SAML | OAuth | OIDC | Mutual Auth
+- 🔒 &nbsp; **ServiceNow** : Authentication | Table API | Import Set Web Services | Scripted Web Services | Inbound and Outbound API Integration | Rest API Explorer | Inbound and Outbound Emails | Email Notifications | Inbound Email Actions | Email Client | Outlook Actionable Messages | SMS | Push Notifications | Import Sets | LDAP Import Sets | Easy Import | Scheduled Imports | Export Sets | Scheduled Exports | Service Graph Connectors | Mid server | Instance Data Replication (IDR)
+- ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
+- 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
+- 🗄️ &nbsp; **Infra** : TCP/IP Stack
+- ⚙️ &nbsp; **Tools** : Splunk | Postman | SOAP UI | Eclipse | JIRA | Postman | SQL developer | MySQL Workbench | PGAdmin | ITIL
+- 🔧 &nbsp; **Others** : Troubleshooting | Debugging | JDBC | ODBC
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
