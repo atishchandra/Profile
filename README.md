@@ -13,7 +13,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Currently part of the CS-Integrations Team at ServiceNow.
+- 💻 &nbsp; Currently part of the Integrations Team at ServiceNow.
 - 🎓 &nbsp; Master's in Computer Application from Chandigarh University.
 - 🧑‍💻 &nbsp; Diving deep into Cloud & DevOps Engineering.
 - 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer.
