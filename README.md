@@ -13,8 +13,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Currently part of the Engineering & Customer Success Team at ServiceNow.
-- 🎓 &nbsp; Pursuing Master's in Computer Application from Chandigarh University, Distance Education.
+- 💻 &nbsp; Currently part of the CS-Integrations Team at ServiceNow.
+- 🎓 &nbsp; Master's in Computer Application from Chandigarh University.
 - 🧑‍💻 &nbsp; Diving deep into Cloud & DevOps Engineering.
 - 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer.
 - ✍️ &nbsp; I love Music, Movies, Writing & Travelling.
@@ -33,7 +33,7 @@
 - 🌐 &nbsp; **Web Servers** : Tomcat | WebSphere | Apache
 - ✉️ &nbsp; **Email Infra** : SMTP | POP3 | IMAP
 - 🌐 &nbsp; **Web Services** : REST API | SOAP | JSONv2  
-- 🔒 &nbsp; **Authentication** : Basic Auth | MFA | API Auth | LDAP | Single Sign-On (SSO) | SAML | OAuth | OIDC | Mutual Auth
+- 🔒 &nbsp; **Authentication** : Basic Auth | MFA | API Auth | LDAP | Single Sign-On | SAML | OAuth | OIDC | Mutual Auth
 - 🔒 &nbsp; **ServiceNow** : Authentication | Table API | Import Set Web Services | Scripted Web Services | Inbound and Outbound API Integration | Rest API Explorer | Inbound and Outbound Emails | Email Notifications | Inbound Email Actions | Email Client | Outlook Actionable Messages | SMS | Push Notifications | Import Sets | LDAP Import Sets | Easy Import | Scheduled Imports | Export Sets | Scheduled Exports | Service Graph Connectors | Mid server | Instance Data Replication (IDR)
 - ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
 - 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
