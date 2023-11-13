@@ -37,7 +37,7 @@
 - 💻 &nbsp; **ServiceNow** : Authentication | Web Services | Import Sets | Export Sets | SGC | Mid Server | IDR
 - ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
 - 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
-- 🗄️ &nbsp; **Infra** : TCP-IP Stack
+- 🗄️ &nbsp; **Infra** : TCP/IP Stack
 - ⚙️ &nbsp; **Tools** : Splunk | Postman | SOAP UI | Eclipse | JIRA | Postman | SQL developer | MySQL Workbench | PGAdmin | ITIL
 - 🔧 &nbsp; **Others** : Troubleshooting | Debugging | JDBC | ODBC
 
@@ -48,7 +48,15 @@
 #### 🏢 Engineer, Integrations - ServiceNow, Hyderabad (April 2023 - Present)
 
 - 🏢 Member of the CS, Integrations Team.
-- 👨‍💻 Linux, Databases, Authentication, Web Services, Email, Network, Encryption, Middleware, Splunk etc.
+- 🕸️ Delving into the intricacies of Authentication, Web Services, Email Infrastructure, Networking and ServiceNow-specific tools and functionalities.
+- 🧑‍💻 Providing Technical support to ServiceNow customers worldwide, troubleshooting complex issues and ensuring timely resolutions.
+- 🌐 Collaborating with customers to understand their business needs and technical challenges, offering tailored solutions and best practices.
+- 🤝 Building strong relationships with customers, acting as a trusted advisor and advocate for their success.
+- 📶 Engaging with the cross functional teams like operations and engineering to build, drive and improve tools and processes for quicker issue resolution.
+- 🕸️ Successfully diagnose and resolve complex technical issues, ensuring minimal downtime and business impact.
+- 📜 Prioritising and manage assigned incidents and escalations in a fast-paced environment.
+- 💻 Proactively monitor and manage SLA metrics to prevent breaches and ensure timely issue resolution.
+- 👨‍🔧 Acting as a dedicated customer advocate, managing incidents and escalations with a focus on customer satisfaction.
 
 #### 🏢 Engineer, Build & Integrations - Capgemini, Bangalore (Jan 2021 - April 2023)
 
