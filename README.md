@@ -38,7 +38,7 @@
 - ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
 - 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
 - 🗄️ &nbsp; **Infra** : TCP/IP Stack |
-- ⚙️ &nbsp; **Tools** : Splunk | Postman | SOAP UI | Eclipse | JIRA | Postman | SQL developer | MySQL Workbench | PGAdmin | ITIL
+- ⚙️ &nbsp; **Tools** : Splunk | Postman | SOAP UI | Eclipse | JIRA | SQL developer | MySQL Workbench | PGAdmin | ITIL
 - 🔧 &nbsp; **Others** : Troubleshooting | Debugging | JDBC | ODBC
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
