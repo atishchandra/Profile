@@ -1,6 +1,6 @@
-<h1 align="center"> Hey there! I'm Atish Chandra 👨‍💻 </h1>
+<h1 align="center"> Hey there! Glad to have you here on my profile 👨‍💻 </h1>
 
-<h3 align="center">  DevOps & Cloud Enthusiast </h3> <br>
+<h3 align="center">  Technical Engineer, Integrations at ServiceNow </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/atishchandra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue"></a>
@@ -13,11 +13,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Currently part of the Integrations Team at ServiceNow.
-- 🎓 &nbsp; Master's in Computer Application from Chandigarh University.
-- 🧑‍💻 &nbsp; Diving deep into Cloud & DevOps Engineering.
-- 👦 &nbsp; Three Words that defines me: Dreamer, Learner & Explorer.
-- ✍️ &nbsp; I love Music, Movies, Writing & Travelling.
+- 💼 &nbsp; Currently working as a Technical Engineer, specializing in Integrations at ServiceNow.
+- 🎓 &nbsp; Pursued Master's in Computer Applications from Chandigarh University.
+- ☁️ &nbsp; Passionate about SaaS Integrations while diving deeper into SRE and DevOps practices.
+- 💡 &nbsp; Three words that describe me: Dreamer, Learner, and Explorer.
+- 🎶 &nbsp; I have a passion for Music, Writing, and Travelling.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
