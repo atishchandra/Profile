@@ -44,20 +44,22 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
-#### 🏢 Engineer, Integrations - ServiceNow, Hyderabad (April 2023 - Present)
+#### 🏢 Technical Engineer, Integrations - ServiceNow, Hyderabad (April 2023 - Present)
 
 - 🏢 Member of the CS, Integrations Team.
-- 🕸️ Delving into the intricacies of Authentication, Web Services, Email Infrastructure, Networking and ServiceNow-specific tools and functionalities.
-- 🧑‍💻 Providing Technical support to ServiceNow customers worldwide, troubleshooting complex issues and ensuring timely resolutions.
+- 🕸️ Providing product support to ServiceNow customers worldwide, troubleshooting complex issues and ensuring timely resolutions.
+- 🧑‍💻 Owning and solving complex customer technical issues by employing collaboration, troubleshooting best practices, and maintaining transparency with different teams for timely updates on cases.
+- 🔄 Contributing to case deflection initiatives, automation, and other digital self-help assets aimed at enhancing the customer/engineer experience.
+- 🔍 Performing error diagnosis, debugging, validation, and root cause analysis.
+- 📋 Enabling replication of issues to verify product-related bugs.
 - 🌐 Collaborating with customers to understand their business needs and technical challenges, offering tailored solutions and best practices.
 - 🤝 Building strong relationships with customers, acting as a trusted advisor and advocate for their success.
-- 📶 Engaging with the cross functional teams like operations and engineering to build, drive and improve tools and processes for quicker issue resolution.
-- 🕸️ Successfully diagnose and resolve complex technical issues, ensuring minimal downtime and business impact.
-- 📜 Prioritising and manage assigned incidents and escalations in a fast-paced environment.
-- 💻 Proactively monitor and manage SLA metrics to prevent breaches and ensure timely issue resolution.
-- 👨‍🔧 Acting as a dedicated customer advocate, managing incidents and escalations with a focus on customer satisfaction.
+- 📈 Actively engaging with cross-functional teams to improve tools and processes for quicker issue resolution.
+- 👨‍🔧 Acting as a dedicated customer advocate, managing assigned cases and escalations with a focus on customer satisfaction, ensuring minimal downtime and business impact.
+- 📜 Prioritizing and managing assigned incidents and escalations in a fast-paced environment.
+- 💻 Proactively monitoring and managing SLA metrics to prevent breaches and ensure timely issue resolution.
 
-#### 🏢 Engineer, Build & Integrations - Capgemini, Bangalore (Jan 2021 - April 2023)
+#### 🏢 Technical Engineer, Integrations & Infrastructure - Capgemini, Bangalore (Jan 2021 - April 2023)
 
 - 🏢 Member of the Engineering and Customer Experience Team for a French Automobile Client.
 - 👨‍💻 Extensive experience working in a customer-facing environment, consistently delivering high-quality service and fostering positive relationships with clients and customers.
