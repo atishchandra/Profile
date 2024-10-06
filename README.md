@@ -32,8 +32,9 @@
 - 🌐 &nbsp; **Web Servers** : Tomcat | WebSphere | Apache
 - ✉️ &nbsp; **Email Infra** : SMTP | POP3 | IMAP
 - 🌐 &nbsp; **Web Services** : REST API | SOAP | JSONv2  
-- 🔒 &nbsp; **Authentication** : Basic Auth | MFA | API Auth | LDAP | Single Sign-On | SAML | OAuth | OIDC | Mutual Auth
-- 💻 &nbsp; **ServiceNow** : Authentication | Web Services | Email Infra | Import Sets | Export Sets | SGC | Mid Server | IDR
+- 🔒 &nbsp; **Authentication** : MFA | LDAP | Single Sign-On | SAML | OAuth | OIDC | Mutual Auth
+- 💻 &nbsp; **ServiceNow** : System Import Sets | IntegrationHub | MS Teams | Email Infrastructure | Authentication | Web Services etc.
+- 💻 &nbsp; **Product Integrations** Azure | JIRA | Microsoft 365 Suite | Okta | Salesforce | Workday | Slack | SuccessFactors | Trello | Twilio etc. 
 - ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
 - 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
 - 🗄️ &nbsp; **Infra** : TCP/IP Stack |
