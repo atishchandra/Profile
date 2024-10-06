@@ -33,7 +33,7 @@
 - ✉️ &nbsp; **Email Infra** : SMTP | POP3 | IMAP
 - 🌐 &nbsp; **Web Services** : REST API | SOAP | JSONv2  
 - 🔒 &nbsp; **Authentication** : MFA | LDAP | Single Sign-On | SAML | OAuth | OIDC | Mutual Auth
-- 💻 &nbsp; **Product Integrations** : ServiceNow | Azure | JIRA | Microsoft 365 Suite | Okta | Salesforce | Workday | Slack | SuccessFactors | Trello | Twilio etc. 
+- 💻 &nbsp; **Product Integrations** | ServiceNow | Azure | JIRA | Microsoft 365 Suite | Okta | Salesforce | Workday | Slack | SuccessFactors | Trello | Twilio etc. 
 - ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
 - 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
 - 🗄️ &nbsp; **Infra** : TCP/IP Stack |
