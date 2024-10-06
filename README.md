@@ -22,23 +22,23 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🧑‍💻 &nbsp; **Linux** : RHEL | SLES | openSUSE | CentOS | Ubuntu
-- 🧑‍💻 &nbsp; **Unix**  : Solaris | AIX
-- 🛢 &nbsp; **Database** : MySQL | PostgreSQL | Oracle
-- 💻 &nbsp; **Language** : SQL | Python
-- 📜 &nbsp; **Scripting** : Shell Scripting (Bash/KSH) |
-- 🕸️ &nbsp; **Version Control** : Subversion | Git | GitHub
-- 📜 &nbsp; **Data Serialization Language** : XML | YAML | JSON
-- 🌐 &nbsp; **Web Servers** : Tomcat | WebSphere | Apache
-- ✉️ &nbsp; **Email Infra** : SMTP | POP3 | IMAP
-- 🌐 &nbsp; **Web Services** : REST API | SOAP | JSONv2  
-- 🔒 &nbsp; **Authentication** : MFA | LDAP | Single Sign-On | SAML | OAuth | OIDC | Mutual Auth
+- 🧑‍💻 &nbsp; **Linux** | RHEL | SLES | openSUSE | CentOS | Ubuntu
+- 🧑‍💻 &nbsp; **Unix** | Solaris | AIX
+- 🛢 &nbsp; **Database** | MySQL | PostgreSQL | Oracle
+- 💻 &nbsp; **Language** | SQL | Python
+- 📜 &nbsp; **Scripting** | Shell Scripting |
+- 🕸️ &nbsp; **Version Control** | Subversion | Git | GitHub
+- 📜 &nbsp; **Data Serialization Languages** | XML | YAML | JSON
+- 🌐 &nbsp; **Web Servers** | Tomcat | WebSphere | Apache
+- ✉️ &nbsp; **Email Infra** | SMTP | POP3 | IMAP
+- 🌐 &nbsp; **Web Services** | REST API | SOAP | JSONv2  
+- 🔒 &nbsp; **Authentication** | MFA | LDAP | Single Sign-On | SAML | OAuth | OIDC | Mutual Auth
 - 💻 &nbsp; **Product Integrations** | ServiceNow | Azure | JIRA | Microsoft 365 Suite | Okta | Salesforce | Workday | Slack | SuccessFactors | Trello | Twilio etc. 
-- ☁️ &nbsp; **Cloud Computing** : AWS | Azure |
-- 📶 &nbsp; **Networking** : DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
-- 🗄️ &nbsp; **Infra** : TCP/IP Stack |
-- ⚙️ &nbsp; **Tools** : Splunk | Postman | SOAP UI | Eclipse | JIRA | SQL developer | MySQL Workbench | PGAdmin | ITIL
-- 🔧 &nbsp; **Others** : Troubleshooting | Debugging | JDBC | ODBC
+- ☁️ &nbsp; **Cloud Computing** | AWS | Azure |
+- 📶 &nbsp; **Networking** | DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
+- 🗄️ &nbsp; **Infra** | TCP/IP Stack |
+- ⚙️ &nbsp; **Tools** | Splunk | Postman | SOAP UI | Eclipse | JIRA | SQL developer | MySQL Workbench | PGAdmin | ITIL
+- 🔧 &nbsp; **Others** | Troubleshooting | Debugging | JDBC | ODBC
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
