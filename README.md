@@ -12,15 +12,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-💼 Technical Engineer, Integrations & AI at ServiceNow.
-🎓 Master’s in Computer Applications from Chandigarh University.
-💡 Three words that describe me: Dreamer, Learner, Explorer.
-🎵 Outside of work, I enjoy music, writing, and travelling.
+- 💼 Technical Engineer, Integrations & AI at ServiceNow.
+- 🎓 Master’s in Computer Applications from Chandigarh University.
+- 💡 Three words that describe me: Dreamer, Learner, Explorer.
+- 🎵 Outside of work, I enjoy music, writing, and travelling.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
 ### 🧰 Tech Stack & Tools
 
 - 🖥️ &nbsp; **Operating Systems & Infrastructure:**  
@@ -56,20 +53,17 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
-#### 🏢 Technical Engineer, Integrations - ServiceNow, Hyderabad (April 2023 - Present)
+#### 🏢 Technical Engineer, Integrations & AI at ServiceNow, Hyderabad (April 2023 - Present)
 
-- 🏢 Member of the CS, Integrations Team.
-- 🕸️ Providing product support to ServiceNow customers worldwide, troubleshooting complex issues and ensuring timely resolutions.
-- 🧑‍💻 Owning and solving complex customer technical issues by employing collaboration, troubleshooting best practices, and maintaining transparency with different teams for timely updates on cases.
-- 🔄 Contributing to case deflection initiatives, automation, and other digital self-help assets aimed at enhancing the customer/engineer experience.
-- 🔍 Performing error diagnosis, debugging, validation, and root cause analysis.
-- 📋 Enabling replication of issues to verify product-related bugs.
-- 🌐 Collaborating with customers to understand their business needs and technical challenges, offering tailored solutions and best practices.
-- 🤝 Building strong relationships with customers, acting as a trusted advisor and advocate for their success.
-- 📈 Actively engaging with cross-functional teams to improve tools and processes for quicker issue resolution.
-- 👨‍🔧 Acting as a dedicated customer advocate, managing assigned cases and escalations with a focus on customer satisfaction, ensuring minimal downtime and business impact.
-- 📜 Prioritizing and managing assigned incidents and escalations in a fast-paced environment.
-- 💻 Proactively monitoring and managing SLA metrics to prevent breaches and ensure timely issue resolution.
+- 🕸️ Deliver advanced product support to ServiceNow customers worldwide by troubleshooting complex technical issues and ensuring timely, effective resolutions.  
+- 🧠 Own and resolve critical customer cases through deep technical analysis, collaboration with internal teams, and adherence to troubleshooting best practices.  
+- 🤝 Drive customer success by acting as a dedicated advocate — managing assigned cases, SLAs, and escalations to minimize downtime and business impact.  
+- 🛠️ Contribute to strategic initiatives including automation, case deflection, and the development of digital self-help assets to enhance the engineer and customer experience.  
+- 🔍 Perform error diagnosis, debugging, validation, and in-depth root cause analysis for recurring or product-related issues.  
+- 🧪 Replicate customer-reported issues in test environments to confirm bugs and escalate product defects where applicable.  
+- 🌐 Collaborate directly with customers to understand their business goals and technical challenges, offering tailored solutions and guidance on best practices.  
+- 🧩 Build lasting customer relationships by serving as a trusted advisor and ensuring proactive communication throughout the case lifecycle.  
+- 🚀 Engage with cross-functional teams to identify tool/process improvements for faster and more scalable support delivery.  
 
 #### 🏢 Technical Engineer, Integrations & Infrastructure - Capgemini, Bangalore (Jan 2021 - April 2023)
 
