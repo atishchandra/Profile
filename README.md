@@ -12,10 +12,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 Technical Engineer, Integrations & AI at ServiceNow.
-- 🎓 Master’s in Computer Applications from Chandigarh University.
-- 💡 Three words that describe me: Dreamer, Learner, Explorer.
-- 🎵 Outside of work, I enjoy music, writing, and travelling.
+💼 Technical Engineer, Integrations & AI at ServiceNow.
+🎓 Master’s in Computer Applications from Chandigarh University.
+💡 Three words that describe me: Dreamer, Learner, Explorer.
+🎵 Outside of work, I enjoy music, writing, and travelling.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
