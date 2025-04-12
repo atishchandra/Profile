@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! Glad to have you here on my profile 👨‍💻 </h1>
 
-<h3 align="center">  Technical Engineer, Integrations at ServiceNow </h3> <br>
+<h3 align="center">  Technical Engineer, Integrations & AI at ServiceNow </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/atishchandra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue"></a>
@@ -12,33 +12,45 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Currently working as a Technical Engineer, specializing in Integrations at ServiceNow.
-- 🎓 &nbsp; Pursued Master's in Computer Applications from Chandigarh University.
-- ☁️ &nbsp; Passionate about SaaS Integrations while diving deeper into SRE and DevOps practices.
-- 💡 &nbsp; Three words that describe me: Dreamer, Learner, and Explorer.
-- 🎶 &nbsp; I have a passion for Music, Writing, and Travelling.
+- 💼 &nbsp; Technical Engineer, Integrations & AI at ServiceNow.
+- 🎓 Master’s in Computer Applications from Chandigarh University.
+- 💡 Three words that describe me: Dreamer, Learner, Explorer.
+- 🎵 Outside of work, I enjoy music, writing, and travelling.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🧑‍💻 &nbsp; **Linux** | RHEL | SLES | openSUSE | CentOS | Ubuntu
-- 🧑‍💻 &nbsp; **Unix** | Solaris | AIX
-- 🛢 &nbsp; **Database** | MySQL | PostgreSQL | Oracle
-- 💻 &nbsp; **Language** | SQL | Python
-- 📜 &nbsp; **Scripting** | Shell Scripting |
-- 🕸️ &nbsp; **Version Control** | Subversion | Git | GitHub
-- 📜 &nbsp; **Data Serialization Languages** | XML | YAML | JSON
-- 🌐 &nbsp; **Web Servers** | Tomcat | WebSphere | Apache
-- ✉️ &nbsp; **Email Infra** | SMTP | POP3 | IMAP
-- 🌐 &nbsp; **Web Services** | REST API | SOAP | JSONv2  
-- 🔒 &nbsp; **Authentication** | MFA | LDAP | Single Sign-On | SAML | OAuth | OIDC | Mutual Auth
-- 💻 &nbsp; **Product Integrations** | ServiceNow | Azure | JIRA | Microsoft 365 Suite | Okta | Salesforce | Workday | Slack | SuccessFactors | Trello | Twilio etc. 
-- ☁️ &nbsp; **Cloud Computing** | AWS | Azure |
-- 📶 &nbsp; **Networking** | DNS | VPN | Encryption | HTTPS | SSL | TLS | Certificates
-- 🗄️ &nbsp; **Infra** | TCP/IP Stack |
-- ⚙️ &nbsp; **Tools** | Splunk | Postman | SOAP UI | Eclipse | JIRA | SQL developer | MySQL Workbench | PGAdmin | ITIL
-- 🔧 &nbsp; **Others** | Troubleshooting | Debugging | JDBC | ODBC
+### 🧰 Tech Stack & Tools
+
+- 🖥️ &nbsp; **Operating Systems & Infrastructure:**  
+  Linux (RHEL, SLES, openSUSE, CentOS, Ubuntu), Unix (Solaris, AIX), LDAP, Active Directory, TCP/IP Stack, DNS, Load Balancers, Firewalls  
+
+- 🔐 &nbsp; **Authentication & Security:**  
+  Single Sign-On (SAML, OAuth, OpenID, WS-FED, Mutual Auth), MFA, PKI, X.509 Certificates, SSL/TLS, HTTPS, VPN, Encryption, Certificate Management  
+
+- ✉️ &nbsp; **Email & Communication Protocols:**  
+  SMTP, POP3, IMAP  
+
+- 🌐 &nbsp; **Web Services & Data Exchange:**  
+  REST API, SOAP, JSONv2, XML, JSON, YAML, JDBC, ODBC  
+
+- 💻 &nbsp; **Platforms & Integrations:**  
+  ServiceNow (IntegrationHub, Conversational AI, Virtual Agent, MS Teams, CoPilot, DevOps, Robotic Process Automation)  
+  Product Integrations (Azure, AWS, JIRA, Microsoft 365 Suite, Okta, Salesforce, Workday, Slack, SuccessFactors, Trello, Twilio, etc.)  
+
+- 🛢️ &nbsp; **Databases & Scripting:**  
+  MySQL, PostgreSQL, Oracle, SQL, Shell Scripting, Python, Relational Database Administration, Backup/Restore
+
+- ⚙️ &nbsp; **Automation & Scheduling:**  
+  Robotic Process Automation (RPA), Crontab, Dollar Universe / Univiewer ($U)  
+
+- 🧪 &nbsp; **Monitoring & Debugging Tools:**  
+  Postman, SOAP UI, Wireshark, Splunk, Introscope, Pacific, Troubleshooting & Root Cause Analysis  
+
+- 🛠️ &nbsp; **Version Control & IDEs:**  
+  Apache Subversion (SVN), Git, GitHub, Eclipse IDE, SQL Developer, MySQL Workbench, PGAdmin  
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
