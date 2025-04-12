@@ -46,8 +46,8 @@
   Robotic Process Automation (RPA), Crontab, Dollar Universe / Univiewer ($U)  
 
 - 🧪 &nbsp; **Monitoring & Debugging Tools:**  
-  Postman, SOAP UI, Wireshark, Splunk, Introscope, Pacific, Troubleshooting & Root Cause Analysis  
-
+  Postman, SOAP UI, Wireshark, Splunk, Troubleshooting & Root Cause Analysis
+  
 - 🛠️ &nbsp; **Version Control & IDEs:**  
   Apache Subversion (SVN), Git, GitHub, Eclipse IDE, SQL Developer, MySQL Workbench, PGAdmin  
 
