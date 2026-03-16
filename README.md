@@ -1,11 +1,13 @@
-<h1 align="center"> Hey there! Glad to have you here on my profile 👨‍💻 </h1>
-
-<h3 align="center">  Technical Engineer, Integrations & AI at ServiceNow </h3> <br>
-
-<p align="center"> 
-<a href="https://www.linkedin.com/in/atishchandra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue"></a>
-<a href="mailto:atishchandra2000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Shoot%20%20me%20a%20Mail-red"></a>
-<a href="https://www.quora.com/profile/Atish-Chandra-5"><img alt="Quora" src="https://img.shields.io/badge/Quora-Ask%20n%20Answer-lightgrey"></a>
+<h1 align="center">Hi, I'm Atish Chandra 👋</h1>
+<h3 align="center">Senior Engineer, AI Integrations at ServiceNow</h3>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/atishchandra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:atishchandra2000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.quora.com/profile/Atish-Chandra-5"><img alt="Quora" src="https://img.shields.io/badge/Quora-Q%26A-B92B27?style=flat&logo=quora&logoColor=white"></a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=REST+%7C+SOAP+%7C+OAuth+%7C+OIDC+%7C+SAML;Integration+Hub+%7C+MID+Server+%7C+Scripted+APIs;Exploring+LLMs+%2B+Agentic+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
