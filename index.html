@@ -105,17 +105,7 @@
     .badge.resume   { background: linear-gradient(135deg, rgba(0,180,216,0.15), rgba(124,58,237,0.15)); color: var(--accent); border-color: var(--accent); }
     .badge svg { width: 14px; height: 14px; fill: currentColor; flex-shrink: 0; }
 
-    .typing-strip {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 0.8rem;
-      color: var(--accent);
-      text-align: center;
-      margin-top: 8px;
-      min-height: 22px;
-      opacity: 0.85;
-    }
-    .cursor { animation: blink 1s step-end infinite; }
-    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
 
     section { margin-bottom: 52px; }
 
@@ -264,14 +254,14 @@
   <header class="header">
     <h1>Atish Chandra</h1>
     <p class="role">Senior Engineer &middot; AI Integrations &middot; ServiceNow</p>
-    <p class="tagline">5 years resolving complex challenges across enterprise integrations, APIs, authentication, and AI-powered workflows.</p>
+    <p class="tagline">5 years solving complex challenges across enterprise integrations, APIs, authentication systems, and AI-powered workflows.</p>
 
     <div class="badges">
       <a class="badge linkedin" href="https://www.linkedin.com/in/atishchandra/" target="_blank">
         <svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
         LinkedIn
       </a>
-      <a class="badge gmail" href="mailto:atishchandra2000@gmail.com">
+      <a class="badge gmail" href="/cdn-cgi/l/email-protection#08697c617b606b6069666c7a693a383838486f65696164266b6765">
         <svg viewBox="0 0 24 24"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 010 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
         Email
       </a>
@@ -285,7 +275,7 @@
       </a>
     </div>
 
-    <div class="typing-strip" id="typing"></div>
+
   </header>
 
   <section>
@@ -452,12 +442,8 @@
 
 </div>
 
-<script>
-  var lines = [
-    "ServiceNow · IntegrationHub · Workflow Data Fabric",
-    "REST | SOAP | OAuth 2.0 | OIDC | SAML | WS-FED",
-    "Azure · Okta · Salesforce · Workday · Slack · AWS",
-    "LLMs · Agentic Systems · MCP · Now Assist"
+</body>
+</html>
   ];
   var li = 0, ci = 0, deleting = false;
   var el = document.getElementById('typing');
@@ -469,11 +455,3 @@
       if (ci === line.length) { deleting = true; setTimeout(type, 1800); return; }
     } else {
       el.innerHTML = line.slice(0, --ci) + '<span class="cursor">|</span>';
-      if (ci === 0) { deleting = false; li = (li + 1) % lines.length; }
-    }
-    setTimeout(type, deleting ? 28 : 55);
-  }
-  type();
-</script>
-</body>
-</html>
