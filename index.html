@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Atish Chandra — Senior Engineer, AI Integrations</title>
+  <title>Atish Chandra - Senior Engineer, AI Integrations</title>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@400;600;800&display=swap" rel="stylesheet"/>
   <style>
     :root {
@@ -27,7 +27,6 @@
       min-height: 100vh;
     }
 
-    /* Grid noise texture overlay */
     body::before {
       content: '';
       position: fixed;
@@ -47,7 +46,6 @@
       z-index: 1;
     }
 
-    /* ── HEADER ── */
     .header {
       text-align: center;
       margin-bottom: 56px;
@@ -79,7 +77,6 @@
       margin: 0 auto 28px;
     }
 
-    /* Badges */
     .badges {
       display: flex;
       flex-wrap: wrap;
@@ -105,12 +102,9 @@
     .badge.linkedin { background: #0a1628; color: #0A66C2; border-color: #0A66C2; }
     .badge.gmail    { background: #1a0a0a; color: #EA4335; border-color: #EA4335; }
     .badge.medium   { background: #111;    color: #d4d4d4; border-color: #333; }
-
     .badge.resume   { background: linear-gradient(135deg, rgba(0,180,216,0.15), rgba(124,58,237,0.15)); color: var(--accent); border-color: var(--accent); }
-
     .badge svg { width: 14px; height: 14px; fill: currentColor; flex-shrink: 0; }
 
-    /* Typing strip */
     .typing-strip {
       font-family: 'JetBrains Mono', monospace;
       font-size: 0.8rem;
@@ -123,7 +117,6 @@
     .cursor { animation: blink 1s step-end infinite; }
     @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
 
-    /* ── SECTIONS ── */
     section { margin-bottom: 52px; }
 
     .section-title {
@@ -144,7 +137,6 @@
       background: var(--border);
     }
 
-    /* ── ABOUT ── */
     .about-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -169,26 +161,6 @@
     .about-item strong { color: var(--text); font-weight: 600; }
     .about-item a { color: var(--accent); text-decoration: none; }
 
-    /* ── CURRENTLY LEARNING ── */
-    .learning-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 12px;
-    }
-
-    .learning-card {
-      background: linear-gradient(135deg, rgba(0,180,216,0.05), rgba(124,58,237,0.05));
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 18px;
-      transition: border-color 0.2s, transform 0.2s;
-    }
-    .learning-card:hover { border-color: var(--accent2); transform: translateY(-2px); }
-    .learning-card .lc-icon { font-size: 1.4rem; margin-bottom: 8px; }
-    .learning-card .lc-title { font-weight: 600; font-size: 0.9rem; margin-bottom: 4px; }
-    .learning-card .lc-desc { font-size: 0.8rem; color: var(--muted); }
-
-    /* ── TECH STACK ── */
     .stack-group { margin-bottom: 16px; }
     .stack-label {
       font-family: 'JetBrains Mono', monospace;
@@ -198,11 +170,7 @@
       text-transform: uppercase;
       margin-bottom: 8px;
     }
-    .tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 7px;
-    }
+    .tags { display: flex; flex-wrap: wrap; gap: 7px; }
     .tag {
       background: var(--tag-bg);
       border: 1px solid var(--border);
@@ -215,7 +183,6 @@
     }
     .tag:hover { border-color: var(--accent); color: var(--accent); }
 
-    /* ── EXPERIENCE ── */
     .exp-item {
       border-left: 2px solid var(--border);
       padding-left: 24px;
@@ -264,14 +231,13 @@
       position: relative;
     }
     .exp-bullets li::before {
-      content: '›';
+      content: 'x';
       position: absolute;
       left: 0;
       color: var(--accent);
       font-weight: 700;
     }
 
-    /* ── FOOTER ── */
     .footer {
       text-align: center;
       font-family: 'JetBrains Mono', monospace;
@@ -282,7 +248,6 @@
     }
     .footer a { color: var(--accent); text-decoration: none; }
 
-    /* Fade-in on load */
     @keyframes fadeUp { from { opacity:0; transform: translateY(20px); } to { opacity:1; transform: translateY(0); } }
     .container > * { animation: fadeUp 0.5s ease both; }
     .container > *:nth-child(1) { animation-delay: 0.05s; }
@@ -296,10 +261,9 @@
 <body>
 <div class="container">
 
-  <!-- HEADER -->
   <header class="header">
     <h1>Atish Chandra</h1>
-    <p class="role">Senior Engineer · AI Integrations · ServiceNow</p>
+    <p class="role">Senior Engineer &middot; AI Integrations &middot; ServiceNow</p>
     <p class="tagline">5 years resolving complex challenges across enterprise integrations, APIs, authentication, and AI-powered workflows.</p>
 
     <div class="badges">
@@ -307,7 +271,7 @@
         <svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
         LinkedIn
       </a>
-      <a class="badge gmail" href="/cdn-cgi/l/email-protection#4322372a302b202b222d2731227173737303242e222a2f6d202c2e">
+      <a class="badge gmail" href="mailto:atishchandra2000@gmail.com">
         <svg viewBox="0 0 24 24"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 010 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
         Email
       </a>
@@ -317,14 +281,13 @@
       </a>
       <a class="badge resume" href="./Atish_Chandra_Resume.pdf" target="_blank">
         <svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/></svg>
-        Resume ↗
+        Resume
       </a>
     </div>
 
     <div class="typing-strip" id="typing"></div>
   </header>
 
-  <!-- ABOUT -->
   <section>
     <div class="section-title">About Me</div>
     <div class="about-grid">
@@ -334,7 +297,7 @@
       </div>
       <div class="about-item">
         <span class="icon">🔐</span>
-        <p>Works across <strong>Authentication, Web Services, Email, Networking, IntegrationHub, Workflow Data Fabric, Conversational AI, DevOps, RPA, SecOps</strong> and Cloud & SaaS integrations.</p>
+        <p>Works across <strong>Authentication, Web Services, Email, Networking, IntegrationHub, Workflow Data Fabric, Conversational AI, DevOps, RPA, SecOps</strong> and Cloud &amp; SaaS integrations.</p>
       </div>
       <div class="about-item">
         <span class="icon">🤖</span>
@@ -346,7 +309,7 @@
       </div>
       <div class="about-item">
         <span class="icon">🎓</span>
-        <p>MCA from Chandigarh University · BCA from CCS University.</p>
+        <p>MCA from Chandigarh University &middot; BCA from CCS University.</p>
       </div>
       <div class="about-item">
         <span class="icon">🎵</span>
@@ -355,75 +318,73 @@
     </div>
   </section>
 
-  <!-- TECH STACK -->
   <section>
-    <div class="section-title">Tech Stack & Tools</div>
+    <div class="section-title">Tech Stack &amp; Tools</div>
 
     <div class="stack-group">
-      <div class="stack-label">ServiceNow Platform & Integrations</div>
+      <div class="stack-label">ServiceNow Platform &amp; Integrations</div>
       <div class="tags">
         <span class="tag">Authentication</span><span class="tag">Web Services</span><span class="tag">IntegrationHub</span><span class="tag">Workflow Data Fabric</span><span class="tag">SecOps</span><span class="tag">Conversational AI</span><span class="tag">Virtual Agent</span><span class="tag">Microsoft Teams</span><span class="tag">DevOps</span><span class="tag">RPA</span>
       </div>
     </div>
 
     <div class="stack-group">
-      <div class="stack-label">API & Web Services</div>
+      <div class="stack-label">API &amp; Web Services</div>
       <div class="tags">
         <span class="tag">REST API</span><span class="tag">SOAP</span><span class="tag">JSONv2</span><span class="tag">XML</span><span class="tag">JSON</span><span class="tag">YAML</span><span class="tag">JDBC</span><span class="tag">ODBC</span>
       </div>
     </div>
 
     <div class="stack-group">
-      <div class="stack-label">Email & Messaging Protocols</div>
+      <div class="stack-label">Email &amp; Messaging Protocols</div>
       <div class="tags">
         <span class="tag">SMTP</span><span class="tag">POP3</span><span class="tag">IMAP</span>
       </div>
     </div>
 
     <div class="stack-group">
-      <div class="stack-label">Cloud & SaaS Product Integrations</div>
+      <div class="stack-label">Cloud &amp; SaaS Product Integrations</div>
       <div class="tags">
         <span class="tag">Azure</span><span class="tag">AWS</span><span class="tag">Okta</span><span class="tag">Salesforce</span><span class="tag">Workday</span><span class="tag">Slack</span><span class="tag">Atlassian</span><span class="tag">Microsoft 365</span><span class="tag">SuccessFactors</span><span class="tag">Twilio</span><span class="tag">Trello</span>
       </div>
     </div>
 
     <div class="stack-group">
-      <div class="stack-label">Identity & Access Management (IAM)</div>
+      <div class="stack-label">Identity &amp; Access Management (IAM)</div>
       <div class="tags">
         <span class="tag">SAML</span><span class="tag">OAuth 2.0</span><span class="tag">OIDC</span><span class="tag">WS-FED</span><span class="tag">Mutual Auth</span><span class="tag">MFA</span><span class="tag">PKI</span><span class="tag">X.509</span><span class="tag">SSL/TLS</span><span class="tag">LDAP</span><span class="tag">Active Directory</span>
       </div>
     </div>
 
     <div class="stack-group">
-      <div class="stack-label">Systems & Infrastructure</div>
+      <div class="stack-label">Systems &amp; Infrastructure</div>
       <div class="tags">
         <span class="tag">Linux (RHEL/Ubuntu/CentOS)</span><span class="tag">Unix (Solaris/AIX)</span><span class="tag">TCP/IP</span><span class="tag">DNS</span><span class="tag">Load Balancers</span><span class="tag">Firewalls</span><span class="tag">IBM WebSphere</span><span class="tag">Apache Tomcat</span><span class="tag">IBM MQ</span>
       </div>
     </div>
 
     <div class="stack-group">
-      <div class="stack-label">Databases & Scripting</div>
+      <div class="stack-label">Databases &amp; Scripting</div>
       <div class="tags">
         <span class="tag">MySQL</span><span class="tag">PostgreSQL</span><span class="tag">Oracle DB</span><span class="tag">SQL</span><span class="tag">Shell Scripting</span><span class="tag">Python</span>
       </div>
     </div>
 
     <div class="stack-group">
-      <div class="stack-label">Monitoring & Debugging</div>
+      <div class="stack-label">Monitoring &amp; Debugging</div>
       <div class="tags">
         <span class="tag">Postman</span><span class="tag">SOAP UI</span><span class="tag">Wireshark</span><span class="tag">Splunk</span>
       </div>
     </div>
   </section>
 
-  <!-- EXPERIENCE -->
   <section>
     <div class="section-title">Experience</div>
 
     <div class="exp-item">
-      <div class="exp-company">ServiceNow · Hyderabad</div>
+      <div class="exp-company">ServiceNow &middot; Hyderabad</div>
       <div class="exp-title">Senior Technical Engineer, AI Integrations</div>
-      <div class="exp-meta">March 2026 – Present</div>
+      <div class="exp-meta">March 2026 &ndash; Present</div>
       <ul class="exp-bullets">
         <li>Continuing as part of the AI Integrations team with expanded responsibilities, handling high-complexity escalations and contributing to cross-functional initiatives.</li>
         <li>Supporting global enterprise customers across authentication, web services, IntegrationHub, Workflow Data Fabric, Conversational AI integrations, and related ServiceNow modules.</li>
@@ -431,9 +392,9 @@
     </div>
 
     <div class="exp-item">
-      <div class="exp-company">ServiceNow · Hyderabad</div>
+      <div class="exp-company">ServiceNow &middot; Hyderabad</div>
       <div class="exp-title">Technical Engineer, AI Integrations</div>
-      <div class="exp-meta">April 2023 – February 2026 · 2 yrs 11 mos</div>
+      <div class="exp-meta">April 2023 &ndash; February 2026 &middot; 2 yrs 11 mos</div>
       <ul class="exp-bullets">
         <li>Delivered advanced L3 product support across authentication, web services, email infrastructure, networking, and platform integrations for a global customer base.</li>
         <li>Owned and resolved critical customer cases through deep technical analysis, collaboration with internal teams, and adherence to troubleshooting best practices.</li>
@@ -446,9 +407,9 @@
     </div>
 
     <div class="exp-item">
-      <div class="exp-company">Capgemini · Bangalore</div>
-      <div class="exp-title">Technical Engineer (L3), Integrations & Infrastructure</div>
-      <div class="exp-meta">October 2022 – April 2023 · 7 mos</div>
+      <div class="exp-company">Capgemini &middot; Bangalore</div>
+      <div class="exp-title">Technical Engineer (L3), Integrations &amp; Infrastructure</div>
+      <div class="exp-meta">October 2022 &ndash; April 2023 &middot; 7 mos</div>
       <ul class="exp-bullets">
         <li>Built infrastructure for frontend and backend servers on Unix and Linux systems using a microservices approach to develop end-to-end applications.</li>
         <li>Performed technical migrations from legacy Unix servers to modern Linux environments, including upgrades to Java, PostgreSQL, MySQL, Oracle DB, IBM MQ, CFT, Tomcat, and WebSphere.</li>
@@ -460,9 +421,9 @@
     </div>
 
     <div class="exp-item">
-      <div class="exp-company">Capgemini · Bangalore</div>
-      <div class="exp-title">Associate Technical Engineer (L3), Integrations & Infrastructure</div>
-      <div class="exp-meta">May 2021 – September 2022 · 1 yr 5 mos</div>
+      <div class="exp-company">Capgemini &middot; Bangalore</div>
+      <div class="exp-title">Associate Technical Engineer (L3), Integrations &amp; Infrastructure</div>
+      <div class="exp-meta">May 2021 &ndash; September 2022 &middot; 1 yr 5 mos</div>
       <ul class="exp-bullets">
         <li>Supported design and deployment of applicative technical architecture using standardised components, taking solutions into production environments.</li>
         <li>Built application infrastructure from scratch across Web, Application, Batch, and Database server tiers for a French Automobile client.</li>
@@ -475,9 +436,9 @@
     </div>
 
     <div class="exp-item">
-      <div class="exp-company">Capgemini · Bangalore</div>
+      <div class="exp-company">Capgemini &middot; Bangalore</div>
       <div class="exp-title">Trainee, Cloud Infrastructure Services</div>
-      <div class="exp-meta">January 2021 – April 2021 · 4 mos</div>
+      <div class="exp-meta">January 2021 &ndash; April 2021 &middot; 4 mos</div>
       <ul class="exp-bullets">
         <li>Trained on Linux and Windows Administration, Oracle DBA, MS SQL Server, VMware and Citrix Virtualization, and Networking fundamentals.</li>
       </ul>
@@ -485,27 +446,34 @@
 
   </section>
 
-  <!-- FOOTER -->
   <footer class="footer">
-    <p>Built by <a href="https://github.com/atishchandra">Atish Chandra</a> &nbsp;·&nbsp; <a href="./Atish_Chandra_Resume.pdf">Resume ↗</a></p>
+    <p>Built by <a href="https://github.com/atishchandra">Atish Chandra</a> &nbsp;&middot;&nbsp; <a href="./Atish_Chandra_Resume.pdf">Resume</a></p>
   </footer>
 
 </div>
 
-  // Typing animation
-  const lines = [
+<script>
+  var lines = [
     "ServiceNow · IntegrationHub · Workflow Data Fabric",
     "REST | SOAP | OAuth 2.0 | OIDC | SAML | WS-FED",
     "Azure · Okta · Salesforce · Workday · Slack · AWS",
-    "LLMs · Agentic Systems · MCP · Now Assist 🤖"
+    "LLMs · Agentic Systems · MCP · Now Assist"
   ];
-  let li = 0, ci = 0, deleting = false;
-  const el = document.getElementById('typing');
+  var li = 0, ci = 0, deleting = false;
+  var el = document.getElementById('typing');
 
   function type() {
-    const line = lines[li];
+    var line = lines[li];
     if (!deleting) {
       el.innerHTML = line.slice(0, ++ci) + '<span class="cursor">|</span>';
       if (ci === line.length) { deleting = true; setTimeout(type, 1800); return; }
     } else {
       el.innerHTML = line.slice(0, --ci) + '<span class="cursor">|</span>';
+      if (ci === 0) { deleting = false; li = (li + 1) % lines.length; }
+    }
+    setTimeout(type, deleting ? 28 : 55);
+  }
+  type();
+</script>
+</body>
+</html>
