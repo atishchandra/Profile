@@ -275,7 +275,6 @@
       </a>
     </div>
 
-
   </header>
 
   <section>
@@ -444,14 +443,3 @@
 
 </body>
 </html>
-  ];
-  var li = 0, ci = 0, deleting = false;
-  var el = document.getElementById('typing');
-
-  function type() {
-    var line = lines[li];
-    if (!deleting) {
-      el.innerHTML = line.slice(0, ++ci) + '<span class="cursor">|</span>';
-      if (ci === line.length) { deleting = true; setTimeout(type, 1800); return; }
-    } else {
-      el.innerHTML = line.slice(0, --ci) + '<span class="cursor">|</span>';
