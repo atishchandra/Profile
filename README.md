@@ -1,93 +1,512 @@
-<h1 align="center">Hi, I'm Atish Chandra 👋</h1>
-<h3 align="center">Senior Engineer, AI Integrations at ServiceNow</h3>
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/atishchandra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:atishchandra2000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.quora.com/profile/Atish-Chandra-5"><img alt="Quora" src="https://img.shields.io/badge/Quora-Q%26A-B92B27?style=flat&logo=quora&logoColor=white"></a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=REST+%7C+SOAP+%7C+OAuth+%7C+OIDC+%7C+SAML;Integration+Hub+%7C+MID+Server+%7C+Scripted+APIs;Exploring+LLMs+%2B+Agentic+Systems+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Atish Chandra — Senior Engineer, AI Integrations</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@400;600;800&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg: #0a0e17;
+      --surface: #111827;
+      --border: #1e2d40;
+      --accent: #00b4d8;
+      --accent2: #7c3aed;
+      --text: #e2e8f0;
+      --muted: #64748b;
+      --tag-bg: #0f1f30;
+    }
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    * { box-sizing: border-box; margin: 0; padding: 0; }
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Syne', sans-serif;
+      line-height: 1.7;
+      min-height: 100vh;
+    }
 
-- 💼 Technical Engineer, Integrations & AI at ServiceNow.
-- 🎓 Master’s in Computer Applications from Chandigarh University.
-- 💡 Three words that describe me: Dreamer, Learner, Explorer.
-- 🎵 Outside of work, I enjoy music, writing, and travelling.
+    /* Grid noise texture overlay */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        radial-gradient(ellipse 80% 50% at 20% 10%, rgba(0,180,216,0.07) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 80% 80%, rgba(124,58,237,0.06) 0%, transparent 60%);
+      pointer-events: none;
+      z-index: 0;
+    }
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🧰 Tech Stack & Tools
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 60px 24px 100px;
+      position: relative;
+      z-index: 1;
+    }
 
-- 🖥️ &nbsp; **Operating Systems & Infrastructure:**  
-  Linux (RHEL, SLES, openSUSE, CentOS, Ubuntu), Unix (Solaris, AIX), LDAP, Active Directory, TCP/IP Stack, DNS, Load Balancers, Firewalls  
+    /* ── HEADER ── */
+    .header {
+      text-align: center;
+      margin-bottom: 56px;
+    }
 
-- 🔐 &nbsp; **Authentication & Security:**  
-  Single Sign-On (SAML, OAuth, OpenID, WS-FED, Mutual Auth), MFA, PKI, X.509 Certificates, SSL/TLS, HTTPS, VPN, Encryption, Certificate Management  
+    .header h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      background: linear-gradient(135deg, #e2e8f0 30%, var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 8px;
+    }
 
-- ✉️ &nbsp; **Email & Communication Protocols:**  
-  SMTP, POP3, IMAP  
+    .header .role {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      color: var(--accent);
+      letter-spacing: 0.08em;
+      margin-bottom: 20px;
+    }
 
-- 🌐 &nbsp; **Web Services & Data Exchange:**  
-  REST API, SOAP, JSONv2, XML, JSON, YAML, JDBC, ODBC  
+    .header .tagline {
+      color: var(--muted);
+      font-size: 0.95rem;
+      max-width: 520px;
+      margin: 0 auto 28px;
+    }
 
-- 💻 &nbsp; **Platforms & Integrations:**  
-  ServiceNow (IntegrationHub, Conversational AI, Virtual Agent, MS Teams, CoPilot, DevOps, Robotic Process Automation)  
-  Product Integrations (Azure, AWS, JIRA, Microsoft 365 Suite, Okta, Salesforce, Workday, Slack, SuccessFactors, Trello, Twilio, etc.)  
+    /* Badges */
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
 
-- 🛢️ &nbsp; **Databases & Scripting:**  
-  MySQL, PostgreSQL, Oracle, SQL, Shell Scripting, Python, Relational Database Administration, Backup/Restore
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      padding: 7px 16px;
+      border-radius: 6px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.78rem;
+      font-weight: 600;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .badge:hover { transform: translateY(-2px); }
+    .badge.linkedin { background: #0a1628; color: #0A66C2; border-color: #0A66C2; }
+    .badge.gmail    { background: #1a0a0a; color: #EA4335; border-color: #EA4335; }
+    .badge.medium   { background: #111;    color: #d4d4d4; border-color: #333; }
 
-- ⚙️ &nbsp; **Automation & Scheduling:**  
-  Robotic Process Automation (RPA), Crontab, Dollar Universe / Univiewer ($U)  
+    .badge.resume   { background: linear-gradient(135deg, rgba(0,180,216,0.15), rgba(124,58,237,0.15)); color: var(--accent); border-color: var(--accent); }
 
-- 🧪 &nbsp; **Monitoring & Debugging Tools:**  
-  Postman, SOAP UI, Wireshark, Splunk, Troubleshooting & Root Cause Analysis
-  
-- 🛠️ &nbsp; **Version Control & IDEs:**  
-  Apache Subversion (SVN), Git, GitHub, Eclipse IDE, SQL Developer, MySQL Workbench, PGAdmin  
+    .badge svg { width: 14px; height: 14px; fill: currentColor; flex-shrink: 0; }
 
+    /* Typing strip */
+    .typing-strip {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8rem;
+      color: var(--accent);
+      text-align: center;
+      margin-top: 8px;
+      min-height: 22px;
+      opacity: 0.85;
+    }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    /* ── SECTIONS ── */
+    section { margin-bottom: 52px; }
 
-<h3> 💼 &nbsp;Experience</h3>
+    .section-title {
+      font-size: 0.7rem;
+      font-family: 'JetBrains Mono', monospace;
+      color: var(--accent);
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .section-title::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
 
-#### 🏢 Technical Engineer, Integrations & AI at ServiceNow, Hyderabad (April 2023 - Present)
+    /* ── ABOUT ── */
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    @media (max-width: 600px) { .about-grid { grid-template-columns: 1fr; } }
 
-- 🕸️ Deliver advanced product support to ServiceNow customers worldwide by troubleshooting complex technical issues and ensuring timely, effective resolutions.  
-- 🧠 Own and resolve critical customer cases through deep technical analysis, collaboration with internal teams, and adherence to troubleshooting best practices.  
-- 🤝 Drive customer success by acting as a dedicated advocate — managing assigned cases, SLAs, and escalations to minimize downtime and business impact.  
-- 🛠️ Contribute to strategic initiatives including automation, case deflection, and the development of digital self-help assets to enhance the engineer and customer experience.  
-- 🔍 Perform error diagnosis, debugging, validation, and in-depth root cause analysis for recurring or product-related issues.  
-- 🧪 Replicate customer-reported issues in test environments to confirm bugs and escalate product defects where applicable.  
-- 🌐 Collaborate directly with customers to understand their business goals and technical challenges, offering tailored solutions and guidance on best practices.  
-- 🧩 Build lasting customer relationships by serving as a trusted advisor and ensuring proactive communication throughout the case lifecycle.  
-- 🚀 Engage with cross-functional teams to identify tool/process improvements for faster and more scalable support delivery.  
+    .about-item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      font-size: 0.82rem;
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      transition: border-color 0.2s;
+    }
+    .about-item:hover { border-color: var(--accent); }
+    .about-item .icon { font-size: 1rem; flex-shrink: 0; margin-top: 2px; }
+    .about-item p { color: #94a3b8; line-height: 1.55; }
+    .about-item strong { color: var(--text); font-weight: 600; }
+    .about-item a { color: var(--accent); text-decoration: none; }
 
-#### 🏢 Technical Engineer, Integrations & Infrastructure - Capgemini, Bangalore (Jan 2021 - April 2023)
+    /* ── CURRENTLY LEARNING ── */
+    .learning-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+    }
 
-- 🏢 Member of the Engineering and Customer Experience Team for a French Automobile Client.
-- 👨‍💻 Extensive experience working in a customer-facing environment, consistently delivering high-quality service and fostering positive relationships with clients and customers.
-- 💻 Collaborated with cross-functional teams including development, testing, and product, to successfully deliver multiple projects.
-- ⚙️ Built infrastructure for frontend and backend servers on Unix & Linux Systems and utilized a microservices approach to create full-fledged applications.
-- 🌍 Performed technical migration of applications from legacy Unix servers to modern Linux servers, including upgrades to Java, Postgresql, MySQL, Oracle DB, MQ, CFT, Tomcat, and WebSphere.
-- 🔧 Managed application configuration, properties, and dictionary files using Eclipse IDE and Apache Subversion(SVN).
-- 🔗 Implemented and maintained database servers on Linux platforms for PostgreSQL, Oracle DB, and MySQL to ensure efficient data management and availability.
-- 💬 Performed tasks on Oracle DB, such as DB script execution, data backup and restoration, tablespace creation, and AWR report generation for issue reporting.
-- 🛢  Deliver SQL, backup and restoration, and access rights for PostgreSQL and MySQL databases.
-- 💜 Automated infrastructure tasks using Shell scripting.
-- 🏢 Managed frontend servers on IBM WebSphere and Apache Tomcat, including log analysis, trace logs, and troubleshooting, as well as SSL certificate installation and configuration.
-- 🔧 Configured batch and job scheduling and monitored using Dollar Universe/Univiewer ($U) and Crontab.
-- 📋 Performed application deployments using in-house deployment tools like Indusgen and Parallauncher, and utilized monitoring tools like Introscope and Pacific for server health checks.
-- 🕹️ Built applicative technical architecture from standard bricks and put it into production.
-- 💡 Integrated new applications and updates, and managed the exchange interface of the application with partner applications.
-- ⏱️ Automated all possible processes to ensure reproducibility and high quality of application delivery and Operating Processes.
-- 💻 Built infrastructure from scratch for applications, including Web servers, Application Servers, Batch and Database Servers.
-- 🔧 Performed technical migrations of applications from legacy systems and outdated software to modern ones.
-- 🌍 Performed the migration of applications from HTTP to HTTPS.
-- 📋 Ensured efficient application support and maintenance through incident, change, and problem management, creating documentation and last point of escalation within the Technical support department and mentoring junior team members in various technologies.
+    .learning-card {
+      background: linear-gradient(135deg, rgba(0,180,216,0.05), rgba(124,58,237,0.05));
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 18px;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .learning-card:hover { border-color: var(--accent2); transform: translateY(-2px); }
+    .learning-card .lc-icon { font-size: 1.4rem; margin-bottom: 8px; }
+    .learning-card .lc-title { font-weight: 600; font-size: 0.9rem; margin-bottom: 4px; }
+    .learning-card .lc-desc { font-size: 0.8rem; color: var(--muted); }
 
-❣️ From [Atish Chandra](https://github.com/atishchandra)
+    /* ── TECH STACK ── */
+    .stack-group { margin-bottom: 16px; }
+    .stack-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.72rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+    }
+    .tag {
+      background: var(--tag-bg);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      padding: 4px 10px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.73rem;
+      color: #94a3b8;
+      transition: border-color 0.2s, color 0.2s;
+    }
+    .tag:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── EXPERIENCE ── */
+    .exp-item {
+      border-left: 2px solid var(--border);
+      padding-left: 24px;
+      margin-bottom: 36px;
+      position: relative;
+    }
+    .exp-item::before {
+      content: '';
+      position: absolute;
+      left: -5px;
+      top: 6px;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+    }
+    .exp-company {
+      font-size: 0.7rem;
+      font-family: 'JetBrains Mono', monospace;
+      color: var(--accent);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 2px;
+    }
+    .exp-title {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+    .exp-meta {
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-family: 'JetBrains Mono', monospace;
+      margin-bottom: 12px;
+    }
+    .exp-bullets {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .exp-bullets li {
+      font-size: 0.88rem;
+      color: #94a3b8;
+      padding-left: 16px;
+      position: relative;
+    }
+    .exp-bullets li::before {
+      content: '›';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    /* ── FOOTER ── */
+    .footer {
+      text-align: center;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--muted);
+      padding-top: 40px;
+      border-top: 1px solid var(--border);
+    }
+    .footer a { color: var(--accent); text-decoration: none; }
+
+    /* Fade-in on load */
+    @keyframes fadeUp { from { opacity:0; transform: translateY(20px); } to { opacity:1; transform: translateY(0); } }
+    .container > * { animation: fadeUp 0.5s ease both; }
+    .container > *:nth-child(1) { animation-delay: 0.05s; }
+    .container > *:nth-child(2) { animation-delay: 0.15s; }
+    .container > *:nth-child(3) { animation-delay: 0.25s; }
+    .container > *:nth-child(4) { animation-delay: 0.35s; }
+    .container > *:nth-child(5) { animation-delay: 0.42s; }
+    .container > *:nth-child(6) { animation-delay: 0.49s; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- HEADER -->
+  <header class="header">
+    <h1>Atish Chandra</h1>
+    <p class="role">Senior Engineer · AI Integrations · ServiceNow</p>
+    <p class="tagline">5 years resolving complex challenges across enterprise integrations, APIs, authentication, and AI-powered workflows.</p>
+
+    <div class="badges">
+      <a class="badge linkedin" href="https://www.linkedin.com/in/atishchandra/" target="_blank">
+        <svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        LinkedIn
+      </a>
+      <a class="badge gmail" href="/cdn-cgi/l/email-protection#4322372a302b202b222d2731227173737303242e222a2f6d202c2e">
+        <svg viewBox="0 0 24 24"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 010 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
+        Email
+      </a>
+      <a class="badge medium" href="https://medium.com/@atishchandra2000" target="_blank">
+        <svg viewBox="0 0 24 24"><path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/></svg>
+        Medium
+      </a>
+      <a class="badge resume" href="./Atish_Chandra_Resume.pdf" target="_blank">
+        <svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/></svg>
+        Resume ↗
+      </a>
+    </div>
+
+    <div class="typing-strip" id="typing"></div>
+  </header>
+
+  <!-- ABOUT -->
+  <section>
+    <div class="section-title">About Me</div>
+    <div class="about-grid">
+      <div class="about-item">
+        <span class="icon">💼</span>
+        <p><strong>Senior Engineer, AI Integrations</strong> at ServiceNow, working with enterprise customers worldwide on complex integration challenges.</p>
+      </div>
+      <div class="about-item">
+        <span class="icon">🔐</span>
+        <p>Works across <strong>Authentication, Web Services, Email, Networking, IntegrationHub, Workflow Data Fabric, Conversational AI, DevOps, RPA, SecOps</strong> and Cloud & SaaS integrations.</p>
+      </div>
+      <div class="about-item">
+        <span class="icon">🤖</span>
+        <p>Actively learning <strong>LLMs, agentic systems, and MCP</strong>, connecting enterprise integration experience with AI-native architectures.</p>
+      </div>
+      <div class="about-item">
+        <span class="icon">✍️</span>
+        <p>Write on Medium, contribute on Quora and Shiksha, with content reaching <strong>300K+ views</strong>.</p>
+      </div>
+      <div class="about-item">
+        <span class="icon">🎓</span>
+        <p>MCA from Chandigarh University · BCA from CCS University.</p>
+      </div>
+      <div class="about-item">
+        <span class="icon">🎵</span>
+        <p>Outside of work: music, writing, and travelling.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TECH STACK -->
+  <section>
+    <div class="section-title">Tech Stack & Tools</div>
+
+    <div class="stack-group">
+      <div class="stack-label">ServiceNow Platform & Integrations</div>
+      <div class="tags">
+        <span class="tag">Authentication</span><span class="tag">Web Services</span><span class="tag">IntegrationHub</span><span class="tag">Workflow Data Fabric</span><span class="tag">SecOps</span><span class="tag">Conversational AI</span><span class="tag">Virtual Agent</span><span class="tag">Microsoft Teams</span><span class="tag">DevOps</span><span class="tag">RPA</span>
+      </div>
+    </div>
+
+    <div class="stack-group">
+      <div class="stack-label">API & Web Services</div>
+      <div class="tags">
+        <span class="tag">REST API</span><span class="tag">SOAP</span><span class="tag">JSONv2</span><span class="tag">XML</span><span class="tag">JSON</span><span class="tag">YAML</span><span class="tag">JDBC</span><span class="tag">ODBC</span>
+      </div>
+    </div>
+
+    <div class="stack-group">
+      <div class="stack-label">Email & Messaging Protocols</div>
+      <div class="tags">
+        <span class="tag">SMTP</span><span class="tag">POP3</span><span class="tag">IMAP</span>
+      </div>
+    </div>
+
+    <div class="stack-group">
+      <div class="stack-label">Cloud & SaaS Product Integrations</div>
+      <div class="tags">
+        <span class="tag">Azure</span><span class="tag">AWS</span><span class="tag">Okta</span><span class="tag">Salesforce</span><span class="tag">Workday</span><span class="tag">Slack</span><span class="tag">Atlassian</span><span class="tag">Microsoft 365</span><span class="tag">SuccessFactors</span><span class="tag">Twilio</span><span class="tag">Trello</span>
+      </div>
+    </div>
+
+    <div class="stack-group">
+      <div class="stack-label">Identity & Access Management (IAM)</div>
+      <div class="tags">
+        <span class="tag">SAML</span><span class="tag">OAuth 2.0</span><span class="tag">OIDC</span><span class="tag">WS-FED</span><span class="tag">Mutual Auth</span><span class="tag">MFA</span><span class="tag">PKI</span><span class="tag">X.509</span><span class="tag">SSL/TLS</span><span class="tag">LDAP</span><span class="tag">Active Directory</span>
+      </div>
+    </div>
+
+    <div class="stack-group">
+      <div class="stack-label">Systems & Infrastructure</div>
+      <div class="tags">
+        <span class="tag">Linux (RHEL/Ubuntu/CentOS)</span><span class="tag">Unix (Solaris/AIX)</span><span class="tag">TCP/IP</span><span class="tag">DNS</span><span class="tag">Load Balancers</span><span class="tag">Firewalls</span><span class="tag">IBM WebSphere</span><span class="tag">Apache Tomcat</span><span class="tag">IBM MQ</span>
+      </div>
+    </div>
+
+    <div class="stack-group">
+      <div class="stack-label">Databases & Scripting</div>
+      <div class="tags">
+        <span class="tag">MySQL</span><span class="tag">PostgreSQL</span><span class="tag">Oracle DB</span><span class="tag">SQL</span><span class="tag">Shell Scripting</span><span class="tag">Python</span>
+      </div>
+    </div>
+
+    <div class="stack-group">
+      <div class="stack-label">Monitoring & Debugging</div>
+      <div class="tags">
+        <span class="tag">Postman</span><span class="tag">SOAP UI</span><span class="tag">Wireshark</span><span class="tag">Splunk</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section>
+    <div class="section-title">Experience</div>
+
+    <div class="exp-item">
+      <div class="exp-company">ServiceNow · Hyderabad</div>
+      <div class="exp-title">Senior Technical Engineer, AI Integrations</div>
+      <div class="exp-meta">March 2026 – Present</div>
+      <ul class="exp-bullets">
+        <li>Continuing as part of the AI Integrations team with expanded responsibilities, handling high-complexity escalations and contributing to cross-functional initiatives.</li>
+        <li>Supporting global enterprise customers across authentication, web services, IntegrationHub, Workflow Data Fabric, Conversational AI integrations, and related ServiceNow modules.</li>
+      </ul>
+    </div>
+
+    <div class="exp-item">
+      <div class="exp-company">ServiceNow · Hyderabad</div>
+      <div class="exp-title">Technical Engineer, AI Integrations</div>
+      <div class="exp-meta">April 2023 – February 2026 · 2 yrs 11 mos</div>
+      <ul class="exp-bullets">
+        <li>Delivered advanced L3 product support across authentication, web services, email infrastructure, networking, and platform integrations for a global customer base.</li>
+        <li>Owned and resolved critical customer cases through deep technical analysis, collaboration with internal teams, and adherence to troubleshooting best practices.</li>
+        <li>Performed error diagnosis, debugging, validation, and in-depth root cause analysis for recurring and product-level issues.</li>
+        <li>Replicated customer-reported issues in test environments to confirm bugs and escalate product defects where applicable.</li>
+        <li>Contributed to automation, case deflection initiatives, and digital self-help asset development to enhance engineer and customer experience.</li>
+        <li>Collaborated directly with customers to understand business goals and technical challenges, offering tailored solutions and best-practice guidance.</li>
+        <li>Managed case SLAs and escalations to minimise downtime and business impact for enterprise customers.</li>
+      </ul>
+    </div>
+
+    <div class="exp-item">
+      <div class="exp-company">Capgemini · Bangalore</div>
+      <div class="exp-title">Technical Engineer (L3), Integrations & Infrastructure</div>
+      <div class="exp-meta">October 2022 – April 2023 · 7 mos</div>
+      <ul class="exp-bullets">
+        <li>Built infrastructure for frontend and backend servers on Unix and Linux systems using a microservices approach to develop end-to-end applications.</li>
+        <li>Performed technical migrations from legacy Unix servers to modern Linux environments, including upgrades to Java, PostgreSQL, MySQL, Oracle DB, IBM MQ, CFT, Tomcat, and WebSphere.</li>
+        <li>Administered Oracle DB, PostgreSQL, and MySQL including script execution, backup and restoration, tablespace creation, and AWR report generation.</li>
+        <li>Managed frontend servers on IBM WebSphere and Apache Tomcat, including log and trace analysis, troubleshooting, and SSL certificate installation and configuration.</li>
+        <li>Conducted application deployments using internal tools like Indusgen and Parallauncher, with monitoring via Introscope and Pacific.</li>
+        <li>Served as last point of L3 escalation within the technical support team; mentored junior engineers across tools and technologies.</li>
+      </ul>
+    </div>
+
+    <div class="exp-item">
+      <div class="exp-company">Capgemini · Bangalore</div>
+      <div class="exp-title">Associate Technical Engineer (L3), Integrations & Infrastructure</div>
+      <div class="exp-meta">May 2021 – September 2022 · 1 yr 5 mos</div>
+      <ul class="exp-bullets">
+        <li>Supported design and deployment of applicative technical architecture using standardised components, taking solutions into production environments.</li>
+        <li>Built application infrastructure from scratch across Web, Application, Batch, and Database server tiers for a French Automobile client.</li>
+        <li>Integrated new applications and updates, managing data exchange interfaces between internal systems and partner applications.</li>
+        <li>Managed end-to-end database tasks across PostgreSQL, Oracle, and MySQL including installation, performance tuning, monitoring, backup and restore, and migration.</li>
+        <li>Automated routine infrastructure processes using Shell scripting to ensure repeatability and high-quality delivery.</li>
+        <li>Configured and monitored batch jobs using Dollar Universe/Univiewer ($U) and Crontab.</li>
+        <li>Led application migration from HTTP to HTTPS, improving security and compliance posture.</li>
+      </ul>
+    </div>
+
+    <div class="exp-item">
+      <div class="exp-company">Capgemini · Bangalore</div>
+      <div class="exp-title">Trainee, Cloud Infrastructure Services</div>
+      <div class="exp-meta">January 2021 – April 2021 · 4 mos</div>
+      <ul class="exp-bullets">
+        <li>Trained on Linux and Windows Administration, Oracle DBA, MS SQL Server, VMware and Citrix Virtualization, and Networking fundamentals.</li>
+      </ul>
+    </div>
+
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>Built by <a href="https://github.com/atishchandra">Atish Chandra</a> &nbsp;·&nbsp; <a href="./Atish_Chandra_Resume.pdf">Resume ↗</a></p>
+  </footer>
+
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+  // Typing animation
+  const lines = [
+    "ServiceNow · IntegrationHub · Workflow Data Fabric",
+    "REST | SOAP | OAuth 2.0 | OIDC | SAML | WS-FED",
+    "Azure · Okta · Salesforce · Workday · Slack · AWS",
+    "LLMs · Agentic Systems · MCP · Now Assist 🤖"
+  ];
+  let li = 0, ci = 0, deleting = false;
+  const el = document.getElementById('typing');
+
+  function type() {
+    const line = lines[li];
+    if (!deleting) {
+      el.innerHTML = line.slice(0, ++ci) + '<span class="cursor">|</span>';
+      if (ci === line.length) { deleting = true; setTimeout(type, 1800); return; }
+    } else {
+      el.innerHTML = line.slice(0, --ci) + '<span class="cursor">|</span>';
